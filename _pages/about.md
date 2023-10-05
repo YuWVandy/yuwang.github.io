@@ -23,16 +23,14 @@ News
 ======
 <h1 id="news">2023</h1>
 <ul>
-<li>[09/2023] Concluding my summer internship at Adobe with two papers coming out, one for <a href='https://arxiv.org/abs/2307.03929'>'Fairness in GNNs'</a> and one for <a href='https://arxiv.org/abs/2308.11730'>'KG-LLM'</a>! </li>
+<li>[09/2023] Two papers coming out from my summer internship at Adobe, one for <a href='https://arxiv.org/abs/2307.03929'>'Fairness in GNNs'</a> and one for <a href='https://arxiv.org/abs/2308.11730'>'KG-LLM'</a>!</li>
 <li>[09/2023] Invited to serve as PC for SDM24! </li>
-<li>[08/2023] Invited to serve as reviewers for LOG24! </li>
+<li>[08/2023] Invited to serve as the reviewer for LOG24! </li>
 <li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
-<li>[07/2023] Two surveys are available online, one discussing <a href='recommendation diversity/fairness'>'' and the other discussing privacy in GNN! </li>
-<li>[05/2023] Thrilled to receive the 2023 Graduate Leadership Anchor Awards - <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'Research Branch'</a>! </li>
-<li>[04/2023] The paper ‘Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling’ is online!! </li>
-<li>[03/2023] Invited to serve as a reviewer for TNNLS! </li>
-<li>[02/2023] Invited to serve as a reviewer for JOCO! </li>
-<li>[02/2023] Invited to serve as a reviewer for TKDE! </li>
+<li>[07/2023] Two surveys are available online, one discussing <a href='https://arxiv.org/abs/2307.04644'>'Recommendation diversity/fairness'</a> and the other discussing <a href='https://arxiv.org/abs/2308.16375'>'Privacy in GNN'</a>! </li>
+<li>[05/2023] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'2023 Graduate Leadership Anchor Awards Research Branch'</a>! </li>
+<li>[04/2023] AI for Science paper ‘Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling’ is online!! </li>
+<li>[03/2023] Invited to serve as a reviewer for JOCO/TKDE/TNNLS! </li>
 <li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
 <li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
 <li>[01/2023] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you, Tyler and our CS Department, for the nomination! </li>
