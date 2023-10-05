@@ -1,5 +1,5 @@
 ---
-title: "Imbalanced Graph Classification via Graph-of-Graph Neural Networks"
+title: "CIKM'22-Imbalanced Graph Classification via Graph-of-Graph Neural Networks"
 collection: publications
 permalink: /publication/2022-G2GNN
 date: 2022-10-17
