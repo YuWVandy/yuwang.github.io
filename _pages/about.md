@@ -21,7 +21,7 @@ Email: yu.wang At vanderbilt.edu. Fine me on [Github](https://github.com/YuWVand
 
 News
 ======
-<h1 id="news">2022</h1>
+<h1 id="news">2023</h1>
 <ul>
 <li>[09/2023] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!
 <li>[09/2023] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLM</a> is available now!</li>
