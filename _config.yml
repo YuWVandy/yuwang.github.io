@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YU WANG'S HOMEPAGE"
+title                    : "YU WANG (王宇)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
