@@ -32,8 +32,8 @@ News
 <li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
 <li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> is available now!</li>
 <li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2308.16375'>Privacy in GNNs</a> is available now!</li>
-<li>[05/2023] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'2023 Graduate Leadership Anchor Awards Research Branch'</a>! </li>
-<li>[04/2023] AI for Science preprint ‘Expert Knowledge for Drug Discovery’ is available online! </li>
+<li>[05/2023] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>2023 Graduate Leadership Anchor Awards Research Branch</a>! </li>
+<li>[04/2023] AI for Science preprint <a href='https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1.abstract'>Expert Knowledge for Drug Discovery</a> is available online! </li>
 <li>[03/2023] Invited to serve as a reviewer for JOCO/TKDE/TNNLS! </li>
 <li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
 <li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
@@ -47,7 +47,7 @@ News
 -----
 <ul>
 <li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>Bayesian Reconstruction of Infrastructure Networks</a> is available now! </li>
-<li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>‘Degree-related Bias in Link Prediction’</a> is accepted at ICDMW 22! </li>
+<li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>Degree-related Bias in Link Prediction</a> is accepted at ICDMW 22! </li>
 <li>[12/2022] Excited to join Adobe as a Ph.D. research intern for Summer 23! </li>
 <li>[12/2022] Invited to serve as the reviewer for TNNLS! </li>
 <li>[12/2022] Present a poster at LoG'22! </li>
@@ -65,7 +65,7 @@ News
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
 <li>[05/2022] Our paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539404'>Sensitive Leakage in GNNs</a> is accepted at KDD’22! </li>
 <li>[05/2022] Our paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539319'>Structural Explanation of Bias in GNNs</a> is accepted at KDD'22</li>
-<li>[05/2022] Our paper <a href="https://arxiv.org/abs/2202.05240">"ChemicalX"</a> is accepted at KDD'22 and corresponding open-source library is available <a href='https://github.com/astrazeneca/chemicalx'>here</a></li>
+<li>[05/2022] Our paper <a href="https://arxiv.org/abs/2202.05240">ChemicalX</a> is accepted at KDD'22 and corresponding open-source library is available <a href='https://github.com/astrazeneca/chemicalx'>here</a></li>
 <li>[05/2022] Thrilled to start my summer research scientist internship at The Home Depot! </li>
 <li>[05/2022] Invited to serve as the Web Chair for the Machine Learning on Graphs (MLoG) workshop at ICDM’22! </li>
 <li>[04/2022] Honored to win Vanderbilt’s C.F.Chen Best Paper Award! Extremely appreciate the help from my advisor Dr. Derr! </li>
@@ -74,7 +74,7 @@ News
 <li>[04/2022] Invited to serve as PC member for KDD’22! </li>
 <li>[04/2022] Invited to serve as Reviewer for TKDE! </li>
 <li>[03/2022] Invited to serve as the sub-reviewer for KDD’22! </li>
-<li>[02/2022] Preprint <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a>, really appreciate the guidance of Dr. Rozemberczki from AstraZeneca! </li>
+<li>[02/2022] Preprint <a href="https://arxiv.org/abs/2202.05240">ChemicalX: A Deep Learning Library for Drug Pair Scoring</a>, really appreciate the guidance of Dr. Rozemberczki from AstraZeneca! </li>
 <li>[02/2022] Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3502218">Imbalanced/Biased Graph Learning</a> is accepted at WSDM'22! </li>
 <li>[02/2022] Invited to serve as the Web Chair for Machine Learning on Graphs (MLoG) workshop at WSDM’22!</li>
 <li>[01/2022] Our book chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">SSL for GNNs</a> is available in the book <a href="https://graph-neural-networks.github.io/">Graph Neural Networks: Foundations, Frontiers, and Applications</a>.</li>
