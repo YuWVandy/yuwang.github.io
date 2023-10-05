@@ -1,5 +1,5 @@
 ---
-title: "Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery"
+title: "AAAI'22-Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Activity Relationship Modeling in Drug Discovery"
 collection: publications
 permalink: /publication/2022-AAAI-MolKGNN
 date: 2023-06-26
