@@ -34,14 +34,14 @@ News
 <li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
 <li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
 <li>[01/2023] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you, Tyler and our CS Department, for the nomination! </li>
-<li>[01/2023] Our work <a href='https://arxiv.org/abs/2207.06221'>‘Collaboration-aware Graph Convolution’</a> is accepted at WWW’23! </li>
+<li>[01/2023] Our work <a href='https://dl.acm.org/doi/abs/10.1145/3543507.3583229'>Topological-enhanced GNNs for Recommender Systems</a> is accepted at WWW’23! </li>
 <li>[01/2023] Invited to serve as PC member for both Research and Applied Track of KDD’23! </li>    
 <li>[01/2023] Invited to serve as the Reviewer for DAMI! </li>    
 </ul>
 
 <h1 id="news">2022</h1>
 <ul>
-<li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'> Bayesian Reconstruction of Infrastructure Networks’</a> is available now! </li>
+<li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>Bayesian Reconstruction of Infrastructure Networks</a> is available now! </li>
 <li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>‘Degree-related Bias in Link Prediction’</a> is accepted at ICDMW 22! </li>
 <li>[12/2022] Excited to accept the offer to join Adobe as a Ph.D. research intern for Summer 23! </li>
 <li>[12/2022] Invited to serve as the reviewer for TNNLS! </li>
@@ -49,14 +49,14 @@ News
 <li>[11/2022] Serve as two session chairs at ICDM'22! </li>
 <li>[11/2022] Presented our work ‘Demystify the Degree-related Bias in Recommender Systems’ at ICDM’22 MLoG workshop </li>    
 <li>[11/2022] Invited to serve as the Reviewer for DAMI! </li>
-<li>[11/2022] Our extended abstract ‘‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’’ was accepted at Learning on Graphs (LOG) conference! </li>
+<li>[11/2022] Our extended abstract Topological-enhanced GNNs for Recommender Systems was accepted at Learning on Graphs (LOG) conference! </li>
 <li>[11/2022] Two papers accepted at AAAI’23, one for fair explanation and the other for molecular graph kernel representation, congraulations Yuying and Lance! </li>
 <li>[10/2022] Awarded the student travel award for attending ICDM’22 </li>
 <li>[09/2022] Invited to serve as the Sub-reviewer for AAAI’23 </li>
 <li>[09/2022] Invited to serve as PC member for WSDM’23! </li>
 <li>[09/2022] Invited to serve as the Sub-reviewer for WSDM’23! </li> 
 <li>[08/2022] Our paper Imbalanced Graph Classification is accepted at CIKM'22 research track! </li>
-<li>[07/2022] Our paper <a href='https://arxiv.org/abs/2207.06221'>‘Collaboration-Aware Graph Neural Networks for Recommendation Systems’</a> is available now. Go and Check how our proposed CAGCN* achieves nearly 10% Recall@20 and 80% speed-up over LightGCN! </li>
+<li>[07/2022] Our paper <a href='https://arxiv.org/abs/2207.06221'>‘Topological Enhanced GNNs for Recommender Systems’</a> is available now.</li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
 <li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
 <li>[05/2022] Our paper 'On Structural Explanation of Bias in Graph Neural Networks' is accepted at KDD'22</li>
@@ -70,9 +70,9 @@ News
 <li>[04/2022] Invited to serve as Reviewer for TKDE! </li>
 <li>[03/2022] Invited to serve as the sub-reviewer for KDD’22! </li>
 <li>[02/2022] Preprint <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a>, really appreciate the guidance of Dr. Rozemberczki from AstraZeneca! </li>
-<li>[02/2022] Our paper 'Fair Graph Representation Learning with Imbalanced and Biased Data' is accepted at WSDM'22! </li>
+<li>[02/2022] Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3502218">Imbalanced/Biased Graph Representation Learning</a> is accepted at WSDM'22! </li>
 <li>[02/2022] Invited to serve as the Web Chair for Machine Learning on Graphs (MLoG) workshop at WSDM’22!</li>
-<li>[01/2022] Our chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">“Graph Neural Networks: Self-supervised Learning”</a> is available in the book <a href="https://graph-neural-networks.github.io/">"Graph Neural Networks: Foundations, Frontiers, and Applications"</a>.</li>
+<li>[01/2022] Our book chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">SSL for GNNs</a> is available in the book <a href="https://graph-neural-networks.github.io/">Graph Neural Networks: Foundations, Frontiers, and Applications</a>.</li>
 <li>[01/2022] Awarded NSF Student Traveral Award to attend doctoral forum for WSDM2022!</li>
 </ul>
 
