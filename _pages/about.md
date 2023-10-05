@@ -87,14 +87,14 @@ News
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">GoG for Imbalanced Graph Learning</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">Generating Synthetic Systems of Interdependent Critical Infrastructure Networks</a> has been accepted to IEEE System Journal! </li>
 <li>[11/2021] Invited to serve as sub-reviewer for TheWebConf2022 </li>
-<li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification</a>! </li>
+<li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">Distance-wise Prototypical GNNs for Imbalanced Node Classification</a>! </li>
 <li>[10/2021] Invited to serve as sub-reviewer for SDM2022 </li>
 <li>[08/2021] Serving as the session chair at KDD2021!
 <li>[08/2021] Serving as sub-reviewer for WSDM2022!
 <li>[08/2021] Invited to serve as PC member for AAAI2021!
 <li>[08/2021] Our work <a href="https://arxiv.org/abs/2108.11022">Tree Decomposed Graph Neural Network</a> is accepted by CIKM 2021! </li>
 <li>[06/2021] Preprint <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">SSL for GNNs</a>.</li>
-<li>[03/2021] Awarded Student Travel Award and Poster presentation at SDM'21 Doctoral Forum!"
+<li>[03/2021] Student Travel Award and Poster presentation at SDM'21 Doctoral Forum!"
 <li>[02/2021] Excited to Join NDS group supervised by Dr. Tyler Derr</li>    
 <li>[01/2021] Awarded free registration and volunteer position at IJCAI'20!</li>
-<li>[11/2020] Our work <a href="https://link.springer.com/chapter/10.1007/978-3-030-63393-6_34">A Data-Integration Analysis on Road Emissions and Traffic Patterns</a> is accepted at Smoky Mountains 
+<li>[11/2020] Our work <a href="https://link.springer.com/chapter/10.1007/978-3-030-63393-6_34">A Data-Integration Analysis on Road Emissions and Traffic Patterns</a> wins the <a href='https://smc.ornl.gov/2020/'>Smoky Mountain Data Challenge</a>!
