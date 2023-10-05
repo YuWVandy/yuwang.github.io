@@ -22,7 +22,7 @@ Work experience
 -----
 * Sept. 2019 - Now: Research Assistant/Teaching Assistant, Vanderbilt University
 * May 2023 - Dec 2023: Research Intern, Adobe Inc.
-* May 2022 - Nov 2022: Research Intern, The Home Depot.
+* May 2022 - Dec 2022: Research Intern, The Home Depot.
 
 
 Awards
