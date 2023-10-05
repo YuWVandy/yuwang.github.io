@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). Prior to that, I completed my B.E. degree at Harbin Institute of Technology in 2019. My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Recommender Systems and Information Retrieval. I have multiple publications in KDD, WWW, CIKM, WSDM, AAAI. In addition, I regularly serve as PC members and reviewers for multiple international conferences and journals in machine learning and data mining such as KDD, ICML, AAAI, WWW, WSDM, CIKM, TKDD and TNNLS. I plan to graduate around **Summer 2024** and am now considering both **academia and industrial research positions**! In addition, I am also welcoming any potential **summer internship** next year.
+I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). Prior to that, I completed my B.E. degree at Harbin Institute of Technology in 2019. My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Recommender Systems and Information Retrieval. I have multiple publications in KDD, WWW, CIKM, WSDM, AAAI. In addition, I regularly serve as PC members and reviewers for multiple international conferences and journals in machine learning and data mining such as KDD, ICML, AAAI, WWW, WSDM, CIKM, TKDD and TNNLS. I plan to graduate around **Summer 2024** and am now considering both **industrial and academia positions**! In addition, I am also welcoming any potential **summer internship** next year.
 
 Research Interests:
 ------
 - Graph Neural Networks, Graph Machine Learning
 - Data-centric AI and Graph Data-quality Issues: Imbalance/Bias/Topology/Weak
-- AI for Science/Infrastructure
+- AI for Science
 - Recommender Systems, Information Retrieval
 
 Email: yu.wang At vanderbilt.edu. Fine me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy) and [Linkein](https://www.linkedin.com/in/yu-wang-63359a196/)
@@ -33,12 +33,12 @@ News
 <li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> is available now!</li>
 <li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2308.16375'>Privacy in GNNs</a> is available now!</li>
 <li>[05/2023] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'2023 Graduate Leadership Anchor Awards Research Branch'</a>! </li>
-<li>[04/2023] AI for Science preprint paper ‘Expert Knowledge for Drug Discovery’ is available online! </li>
+<li>[04/2023] AI for Science preprint ‘Expert Knowledge for Drug Discovery’ is available online! </li>
 <li>[03/2023] Invited to serve as a reviewer for JOCO/TKDE/TNNLS! </li>
 <li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
 <li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
 <li>[01/2023] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you, Tyler and our CS Department, for the nomination! </li>
-<li>[01/2023] Our work <a href='https://dl.acm.org/doi/abs/10.1145/3543507.3583229'>Topological-enhanced GNNs for Recommender Systems</a> is accepted at WWW’23! </li>
+<li>[01/2023] Our work <a href='https://dl.acm.org/doi/abs/10.1145/3543507.3583229'>Collaboration-aware GNNs</a> is accepted at WWW’23! </li>
 <li>[01/2023] Invited to serve as PC member for both Research and Applied Track of KDD’23! </li>    
 <li>[01/2023] Invited to serve as the Reviewer for DAMI! </li>    
 </ul>
@@ -48,26 +48,26 @@ News
 <ul>
 <li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>Bayesian Reconstruction of Infrastructure Networks</a> is available now! </li>
 <li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>‘Degree-related Bias in Link Prediction’</a> is accepted at ICDMW 22! </li>
-<li>[12/2022] Excited to accept the offer to join Adobe as a Ph.D. research intern for Summer 23! </li>
+<li>[12/2022] Excited to join Adobe as a Ph.D. research intern for Summer 23! </li>
 <li>[12/2022] Invited to serve as the reviewer for TNNLS! </li>
 <li>[12/2022] Present a poster at LoG'22! </li>
 <li>[11/2022] Serve as two session chairs at ICDM'22! </li>
 <li>[11/2022] Presented our work ‘Demystify the Degree-related Bias in Recommender Systems’ at ICDM’22 MLoG workshop </li>    
 <li>[11/2022] Invited to serve as the Reviewer for DAMI! </li>
-<li>[11/2022] Our extended abstract Topological-enhanced GNNs for Recommender Systems was accepted at Learning on Graphs (LOG) conference! </li>
-<li>[11/2022] Two papers accepted at AAAI’23, one for fair explanation and the other for molecular graph kernel representation, congraulations Yuying and Lance! </li>
+<li>[11/2022] Our extended abstract <a href='https://openreview.net/forum?id=O7msz8Ou7o'>Topological-enhanced GNNs for Recommender Systems</a> was accepted at Learning on Graphs (LOG) conference! </li>
+<li>[11/2022] Two papers accepted at AAAI’23, one for fair explanation and the other for molecular graph kernel representation, congratulations Yuying and Lance! </li>
 <li>[10/2022] Awarded the student travel award for attending ICDM’22 </li>
 <li>[09/2022] Invited to serve as the Sub-reviewer for AAAI’23 </li>
 <li>[09/2022] Invited to serve as PC member for WSDM’23! </li>
 <li>[09/2022] Invited to serve as the Sub-reviewer for WSDM’23! </li> 
-<li>[08/2022] Our paper Imbalanced Graph Classification is accepted at CIKM'22 research track! </li>
-<li>[07/2022] Our paper <a href='https://arxiv.org/abs/2207.06221'>‘Topological Enhanced GNNs for Recommender Systems’</a> is available now.</li>
+<li>[08/2022] <a href=https://dl.acm.org/doi/abs/10.1145/3511808.3557356>GoG for Imbalanced Graph Classification</a> is accepted by CIKM'22! </li>
+<li>[07/2022] Our paper <a href='https://arxiv.org/abs/2207.06221'>Topological Enhanced GNNs for Recommender Systems</a> is available now.</li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
-<li>[05/2022] My first author paper ‘Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage’ is accepted at KDD’22 research track! </li>
-<li>[05/2022] Our paper 'On Structural Explanation of Bias in Graph Neural Networks' is accepted at KDD'22</li>
+<li>[05/2022] My first author paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539404'>Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage</a> is accepted at KDD’22 research track! </li>
+<li>[05/2022] Our paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539319'>On Structural Explanation of Bias in Graph Neural Networks</a> is accepted at KDD'22</li>
 <li>[05/2022] Our paper <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a> is accepted at KDD'22 and corresponding open-source library is available <a href='https://github.com/astrazeneca/chemicalx'>here</a></li>
-<li>[05/2022] Thrilled to start my summer research scientist intern at The Home Depot! </li>
-<li>[05/2022] Invited to serve as the Web Chair for Machine Learning on Graphs (MLoG) workshop at ICDM’22! </li>
+<li>[05/2022] Thrilled to start my summer research scientist internship at The Home Depot! </li>
+<li>[05/2022] Invited to serve as the Web Chair for the Machine Learning on Graphs (MLoG) workshop at ICDM’22! </li>
 <li>[04/2022] Honored to win Vanderbilt’s C.F.Chen Best Paper Award! Extremely appreciate the help from my advisor Dr. Derr! </li>
 <li>[04/2022] Poster presentation at SDM’22 Doctoral Forum! </li>
 <li>[04/2022] Awarded the SDM’22 travel award! </li>
@@ -78,7 +78,7 @@ News
 <li>[02/2022] Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3502218">Imbalanced/Biased Graph Representation Learning</a> is accepted at WSDM'22! </li>
 <li>[02/2022] Invited to serve as the Web Chair for Machine Learning on Graphs (MLoG) workshop at WSDM’22!</li>
 <li>[01/2022] Our book chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">SSL for GNNs</a> is available in the book <a href="https://graph-neural-networks.github.io/">Graph Neural Networks: Foundations, Frontiers, and Applications</a>.</li>
-<li>[01/2022] Awarded NSF Student Traveral Award to attend doctoral forum for WSDM2022!</li>
+<li>[01/2022] Awarded NSF Student Travel Award to attend doctoral forum for WSDM2022!</li>
 </ul>
 
 2019-2021
