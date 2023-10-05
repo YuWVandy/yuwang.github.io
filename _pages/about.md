@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yu Wang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello there! My
+I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). Prior to that, I completed my B.E. degree at Harbin Institute of Technology in 2019. My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Recommender Systems and Information Retrieval. I have multiple publications in KDD/WWW/CIKM/WSDM/AAAI. In addition, I regularly serve as PC members and reviewers for multiple international conferences and journals in machine learning and data mining such as KDD, ICML, AAAI, WWW, WSDM, CIKM, TKDD and TNNLS. I plan to graduate around **Summer 2024** and am now considering both **academia and industrial research positions**! In addition, I am also welcoming any potential **summer internship** next year.
+
+Research Interests:
+------
+- Graph Neural Networks, Graph Machine Learning
+- Data-centric AI and Graph Data-quality Issues: Imbalance/Bias/Topology/Weak
+- AI for Science/Infrastructure
+- Recommender Systems, Information Retrieval
 
 A data-driven personal website
 ======
