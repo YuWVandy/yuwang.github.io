@@ -1,10 +1,10 @@
 ---
-title: "A data-integration analysis on road emissions and traffic patterns"
+title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
 collection: publications
-permalink: /publication/2020-datacompetition
-excerpt: 'This paper comprehensively visualize and analyze traffic patterns in the Chicago Loop area using variety of data sources including land use, vehicle emissions and building footprint.'
-date: 2020-12-18
-venue: 'Communications in Computer and Information Science'
-paperurl: 'hhttps://link.springer.com/chapter/10.1007/978-3-030-63393-6_34'
-citation: 'Qu, Ao, et al. "A data-integration analysis on road emissions and traffic patterns." Driving Scientific and Engineering Discoveries Through the Convergence of HPC, Big Data and AI: 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, August 26-28, 2020, Revised Selected Papers 17. Springer International Publishing, 2020." <i>Communications in Computer and Information Science; <i>Communications in Computer and Information Science</i>.'
+permalink: /publication/2019-bayespostest
+date: 2019-10-01
+venue: 'Journal of Open Source Software'
+paperurl: '/files/pdf/research/BayesPostEst.pdf'
+link: 'https://doi.org/10.21105/joss.01722'
+citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
 ---
