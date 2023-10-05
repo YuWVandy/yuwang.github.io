@@ -38,7 +38,7 @@ News
 <li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
 <li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
 <li>[01/2023] Thrilled to receive the American Bureau of Shipping Scholarship Award. Thank you, Tyler and our CS Department, for the nomination! </li>
-<li>[01/2023] Our work <a href='https://dl.acm.org/doi/abs/10.1145/3543507.3583229'>Collaboration-aware GNNs</a> is accepted at WWW’23! </li>
+<li>[01/2023] <a href='https://dl.acm.org/doi/abs/10.1145/3543507.3583229'>Collaboration-aware GNNs</a> is accepted at WWW’23! </li>
 <li>[01/2023] Invited to serve as PC member for both Research and Applied Track of KDD’23! </li>    
 <li>[01/2023] Invited to serve as the Reviewer for DAMI! </li>    
 </ul>
@@ -61,11 +61,11 @@ News
 <li>[09/2022] Invited to serve as PC member for WSDM’23! </li>
 <li>[09/2022] Invited to serve as the Sub-reviewer for WSDM’23! </li> 
 <li>[08/2022] <a href=https://dl.acm.org/doi/abs/10.1145/3511808.3557356>GoG for Imbalanced Graph Classification</a> is accepted by CIKM'22! </li>
-<li>[07/2022] Our paper <a href='https://arxiv.org/abs/2207.06221'>Topological Enhanced GNNs for Recommender Systems</a> is available now.</li>
+<li>[07/2022] <a href='https://arxiv.org/abs/2207.06221'>Collaboration-aware GNNs for Recommender Systems</a> is available.</li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
-<li>[05/2022] My first author paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539404'>Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage</a> is accepted at KDD’22 research track! </li>
-<li>[05/2022] Our paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539319'>On Structural Explanation of Bias in Graph Neural Networks</a> is accepted at KDD'22</li>
-<li>[05/2022] Our paper <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a> is accepted at KDD'22 and corresponding open-source library is available <a href='https://github.com/astrazeneca/chemicalx'>here</a></li>
+<li>[05/2022] My first author paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539404'>Improving Fairness in GNNs via Mitigating Sensitive Attribute Leakage</a> is accepted at KDD’22 research track! </li>
+<li>[05/2022] Our paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539319'>Structural Explanation of Bias in GNNs</a> is accepted at KDD'22</li>
+<li>[05/2022] Our paper <a href="https://arxiv.org/abs/2202.05240">"ChemicalX"</a> is accepted at KDD'22 and corresponding open-source library is available <a href='https://github.com/astrazeneca/chemicalx'>here</a></li>
 <li>[05/2022] Thrilled to start my summer research scientist internship at The Home Depot! </li>
 <li>[05/2022] Invited to serve as the Web Chair for the Machine Learning on Graphs (MLoG) workshop at ICDM’22! </li>
 <li>[04/2022] Honored to win Vanderbilt’s C.F.Chen Best Paper Award! Extremely appreciate the help from my advisor Dr. Derr! </li>
