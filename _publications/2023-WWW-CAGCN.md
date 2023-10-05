@@ -1,5 +1,5 @@
 ---
-title: "Collaboration-Aware Graph Convolutional Network for Recommender Systems"
+title: "WWW'23-Collaboration-Aware Graph Convolutional Network for Recommender Systems"
 collection: publications
 permalink: /publication/2023-WWW-CAGCN
 date: 2023-04-30
