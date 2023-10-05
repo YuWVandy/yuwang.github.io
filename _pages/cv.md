@@ -11,18 +11,19 @@ redirect_from:
 
 Education
 -----
-* B.S. in Harbin Institute of Technology
-  * Sept. 2015 - June 2019
 * Ph.D in Computer Science, Vanderbilt University
   * Sept. 2019 - Now
+* B.S. in Harbin Institute of Technology
+  * Sept. 2015 - June 2019
 
 You can find my <a href='https://drive.google.com/file/d/1RB3xUyY_0wue_5iIBEfLUbyWzouYDwqw/view?usp=sharing'>CV</a> here
 
 Work experience
 -----
 * Sept. 2019 - Now: Research Assistant/Teaching Assistant, Vanderbilt University
-* May 2022 - Nov 2022: Research Intern, The Home Depot.
 * May 2023 - Dec 2023: Research Intern, Adobe Inc.
+* May 2022 - Nov 2022: Research Intern, The Home Depot.
+
 
 Awards
 -----
