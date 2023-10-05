@@ -22,7 +22,8 @@ Email: yu.wang At vanderbilt.edu. Fine me on [Github](https://github.com/YuWVand
 News
 ======
 
-<h1 id="news">2023</h1>
+2023
+-----
 <ul>
 <li>[09/2023] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!
 <li>[09/2023] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLM</a> is available now!</li>
@@ -42,7 +43,8 @@ News
 <li>[01/2023] Invited to serve as the Reviewer for DAMI! </li>    
 </ul>
 
-<h1 id="news">2022</h1>
+2022
+-----
 <ul>
 <li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>Bayesian Reconstruction of Infrastructure Networks</a> is available now! </li>
 <li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>‘Degree-related Bias in Link Prediction’</a> is accepted at ICDMW 22! </li>
@@ -79,7 +81,8 @@ News
 <li>[01/2022] Awarded NSF Student Traveral Award to attend doctoral forum for WSDM2022!</li>
 </ul>
 
-<h1 id="news">2019-2021</h1>
+2019-2021
+-----
 <ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
 <li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
