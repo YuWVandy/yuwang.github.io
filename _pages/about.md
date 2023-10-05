@@ -60,7 +60,7 @@ News
 <li>[09/2022] Invited to serve as the Sub-reviewer for AAAI’23 </li>
 <li>[09/2022] Invited to serve as PC member for WSDM’23! </li>
 <li>[09/2022] Invited to serve as the Sub-reviewer for WSDM’23! </li> 
-<li>[08/2022] <a href=https://dl.acm.org/doi/abs/10.1145/3511808.3557356>GoG for Imbalanced Graph Classification</a> is accepted by CIKM'22! </li>
+<li>[08/2022] <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557356'>GoG for Imbalanced Graph Classification</a> is accepted by CIKM'22! </li>
 <li>[07/2022] <a href='https://arxiv.org/abs/2207.06221'>Collaboration-aware GNNs for Recommender Systems</a> is available.</li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
 <li>[05/2022] My first author paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539404'>Improving Fairness in GNNs via Mitigating Sensitive Attribute Leakage</a> is accepted at KDD’22 research track! </li>
