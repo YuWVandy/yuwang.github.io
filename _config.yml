@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yu Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "To Do or To NOT be Regret!"
   location         : "Nashville, Tennessee"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yu-Wang-623"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/YuWVandy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/yu-wang-63359a196/"
   orcid            : "https://orcid.org/0000-0001-6908-508X"
   pinterest        :
   soundcloud       :
