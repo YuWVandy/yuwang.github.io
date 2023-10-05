@@ -1,5 +1,5 @@
 ---
-title: "Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage"
+title: "KDD'22-Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage"
 collection: publications
 permalink: /publication/2022-KDD-SenCorr
 date: 2022-08-14
