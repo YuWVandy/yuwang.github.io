@@ -21,7 +21,7 @@ Email: yu.wang At vanderbilt.edu. Fine me on [Github](https://github.com/YuWVand
 
 News
 ======
-<h1 id="news">2023</h1>
+<h1>2023</h1>
 <ul>
 <li>[09/2023] Two papers coming out from my summer internship at Adobe, one for <a href='https://arxiv.org/abs/2307.03929'>'Fairness in GNNs'</a> and one for <a href='https://arxiv.org/abs/2308.11730'>'KG-LLM'</a>!</li>
 <li>[09/2023] Invited to serve as PC for SDM24! </li>
