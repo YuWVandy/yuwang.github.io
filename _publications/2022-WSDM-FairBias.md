@@ -1,5 +1,5 @@
 ---
-title: "Fair Graph Representation Learning with Imbalanced and Biased Data"
+title: "WSDM'22-Fair Graph Representation Learning with Imbalanced and Biased Data"
 collection: publications
 permalink: /publication/2022-WSDM-FairBias
 date: 2022-02-11
