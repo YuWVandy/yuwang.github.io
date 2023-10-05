@@ -27,7 +27,7 @@ News
 <li>[09/2023] Invited to serve as PC for SDM24! </li>
 <li>[08/2023] Invited to serve as the reviewer for LOG24! </li>
 <li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
-<li>[07/2023] Two surveys are available online, one discussing <a href='https://arxiv.org/abs/2307.04644'>'Recommendation diversity/fairness'</a> and the other discussing <a href='https://arxiv.org/abs/2308.16375'>'Privacy in GNN'</a>! </li>
+<li>[07/2023] Two surveys are available online, one discussing <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> and the other discussing <a href='https://arxiv.org/abs/2308.16375'>Privacy in GNN</a>! </li>
 <li>[05/2023] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'2023 Graduate Leadership Anchor Awards Research Branch'</a>! </li>
 <li>[04/2023] AI for Science paper ‘Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling’ is online!! </li>
 <li>[03/2023] Invited to serve as a reviewer for JOCO/TKDE/TNNLS! </li>
@@ -41,7 +41,7 @@ News
 
 <h1 id="news">2022</h1>
 <ul>
-<li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'>‘A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures’</a> is available now! </li>
+<li>[12/2022] Our paper <a href='https://arxiv.org/abs/2211.15590'> Bayesian Reconstruction of Infrastructure Networks’</a> is available now! </li>
 <li>[12/2022] Our paper <a href='https://ieeexplore.ieee.org/abstract/document/10031056'>‘Degree-related Bias in Link Prediction’</a> is accepted at ICDMW 22! </li>
 <li>[12/2022] Excited to accept the offer to join Adobe as a Ph.D. research intern for Summer 23! </li>
 <li>[12/2022] Invited to serve as the reviewer for TNNLS! </li>
