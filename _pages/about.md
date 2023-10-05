@@ -31,7 +31,7 @@ News
 <li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> is available now!</li>
 <li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2308.16375'>Privacy in GNNs</a> is available now!</li>
 <li>[05/2023] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'2023 Graduate Leadership Anchor Awards Research Branch'</a>! </li>
-<li>[04/2023] AI for Science preprint paper ‘Expert Knowledge for Drug Discovery’ is available online!! </li>
+<li>[04/2023] AI for Science preprint paper ‘Expert Knowledge for Drug Discovery’ is available online! </li>
 <li>[03/2023] Invited to serve as a reviewer for JOCO/TKDE/TNNLS! </li>
 <li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
 <li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
