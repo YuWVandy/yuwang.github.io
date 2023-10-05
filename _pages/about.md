@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). Prior to that, I completed my B.E. degree at Harbin Institute of Technology in 2019. My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Recommender Systems and Information Retrieval. I have multiple publications in KDD, WWW, CIKM, WSDM, AAAI. In addition, I regularly serve as PC members and reviewers for multiple international conferences and journals in machine learning and data mining such as KDD, ICML, AAAI, WWW, WSDM, CIKM, TKDD and TNNLS. I plan to graduate around **Summer 2024** and am now considering both **industrial and academia positions**! In addition, I am also welcoming any potential **summer internship** next year.
+I am a Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). Prior to that, I completed my B.E. degree at Harbin Institute of Technology in 2019. My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Recommender Systems and Information Retrieval. I have multiple publications in KDD, WWW, CIKM, WSDM, and AAAI. In addition, I regularly serve as PC members and reviewers for multiple international conferences and journals in machine learning and data mining, such as KDD, ICML, AAAI, WWW, WSDM, CIKM, TKDD, and TNNLS. I plan to graduate around **Summer 2024** and am now considering both **industrial and academic positions**! In addition, I am also welcoming any potential **summer internship** next year.
 
 Research Interests:
 ------
 - Graph Neural Networks, Graph Machine Learning
 - Data-centric AI and Graph Data-quality Issues: Imbalance/Bias/Topology/Weak
 - AI for Science
-- Recommender Systems, Information Retrieval
+- Recommender Systems, Information Retrieval, Infrastructure Networks
 
-Email: yu.wang At vanderbilt.edu. Fine me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy) and [Linkein](https://www.linkedin.com/in/yu-wang-63359a196/)
+Email: yu.wang At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy) and [Linkein](https://www.linkedin.com/in/yu-wang-63359a196/)
 
 News
 ======
