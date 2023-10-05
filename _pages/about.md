@@ -23,13 +23,15 @@ News
 ======
 <h1>2023</h1>
 <ul>
-<li>[09/2023] Two preprint papers <a href='https://arxiv.org/abs/2307.03929'>'Fairness in GNNs'</a> and <a href='https://arxiv.org/abs/2308.11730'>'KG-LLM'</a>!</li>
+<li>[09/2023] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!
+<li>[09/2023] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLM</a> is available now!</li>
 <li>[09/2023] Invited to serve as PC for SDM24! </li>
 <li>[08/2023] Invited to serve as the reviewer for LOG24! </li>
 <li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
-<li>[07/2023] Two preprint surveys are available online <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> and <a href='https://arxiv.org/abs/2308.16375'>Privacy in GNN</a>! </li>
+<li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> is available now!</li>
+<li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2308.16375'>Privacy in GNNs</a> is available now!</li>
 <li>[05/2023] Thrilled to receive <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards'>'2023 Graduate Leadership Anchor Awards Research Branch'</a>! </li>
-<li>[04/2023] AI for Science preprint paper ‘Expert Knowledge for Drug Discovery’ is online!! </li>
+<li>[04/2023] AI for Science preprint paper ‘Expert Knowledge for Drug Discovery’ is available online!! </li>
 <li>[03/2023] Invited to serve as a reviewer for JOCO/TKDE/TNNLS! </li>
 <li>[02/2023] Invited to serve as a subreviewer for ICWSM’23! </li>
 <li>[02/2023] Invited to serve as a PC member for MLoG@WSDM’23! </li>
