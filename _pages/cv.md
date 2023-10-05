@@ -27,7 +27,7 @@ Work experience
 
 Awards
 -----
-* Graduate Leadership Anchor Award, 2023
+* Vanderbilt’s Graduate Leadership Anchor Award for Research, 2023
 * Vanderbilt's C.F.Chen Best Paper Award Runner-up as Co-author, 2023
 * American Bureau of Shipping Scholarship Award, 2023
 * ICDM'22 Student Travel Award, 2022
