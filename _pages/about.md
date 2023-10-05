@@ -52,7 +52,7 @@ News
 <li>[12/2022] Invited to serve as the reviewer for TNNLS! </li>
 <li>[12/2022] Present a poster at LoG'22! </li>
 <li>[11/2022] Serve as two session chairs at ICDM'22! </li>
-<li>[11/2022] Presented our work ‘Demystify the Degree-related Bias in Recommender Systems’ at ICDM’22 MLoG workshop </li>    
+<li>[11/2022] Presented <a href='https://ieeexplore.ieee.org/document/10031056'>Demystify the Degree-related Bias in Recommender Systems</a> at ICDM’22 MLoG workshop </li>    
 <li>[11/2022] Invited to serve as the Reviewer for DAMI! </li>
 <li>[11/2022] Our extended abstract <a href='https://openreview.net/forum?id=O7msz8Ou7o'>Topological-enhanced GNNs for Recommender Systems</a> was accepted at Learning on Graphs (LOG) conference! </li>
 <li>[11/2022] Two papers accepted at AAAI’23, one for fair explanation and the other for molecular graph kernel representation, congratulations Yuying and Lance! </li>
@@ -63,7 +63,7 @@ News
 <li>[08/2022] <a href='https://dl.acm.org/doi/abs/10.1145/3511808.3557356'>GoG for Imbalanced Graph Classification</a> is accepted by CIKM'22! </li>
 <li>[07/2022] <a href='https://arxiv.org/abs/2207.06221'>Collaboration-aware GNNs for Recommender Systems</a> is available.</li>
 <li>[06/2022] Invited to serve as the sub-reviewer for NeurIPS22 </li>
-<li>[05/2022] My first author paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539404'>Improving Fairness in GNNs via Mitigating Sensitive Attribute Leakage</a> is accepted at KDD’22 research track! </li>
+<li>[05/2022] Our paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539404'>Sensitive Leakage in GNNs</a> is accepted at KDD’22! </li>
 <li>[05/2022] Our paper <a href='https://dl.acm.org/doi/abs/10.1145/3534678.3539319'>Structural Explanation of Bias in GNNs</a> is accepted at KDD'22</li>
 <li>[05/2022] Our paper <a href="https://arxiv.org/abs/2202.05240">"ChemicalX"</a> is accepted at KDD'22 and corresponding open-source library is available <a href='https://github.com/astrazeneca/chemicalx'>here</a></li>
 <li>[05/2022] Thrilled to start my summer research scientist internship at The Home Depot! </li>
@@ -75,7 +75,7 @@ News
 <li>[04/2022] Invited to serve as Reviewer for TKDE! </li>
 <li>[03/2022] Invited to serve as the sub-reviewer for KDD’22! </li>
 <li>[02/2022] Preprint <a href="https://arxiv.org/abs/2202.05240">"ChemicalX: A Deep Learning Library for Drug Pair Scoring"</a>, really appreciate the guidance of Dr. Rozemberczki from AstraZeneca! </li>
-<li>[02/2022] Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3502218">Imbalanced/Biased Graph Representation Learning</a> is accepted at WSDM'22! </li>
+<li>[02/2022] Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3502218">Imbalanced/Biased Graph Learning</a> is accepted at WSDM'22! </li>
 <li>[02/2022] Invited to serve as the Web Chair for Machine Learning on Graphs (MLoG) workshop at WSDM’22!</li>
 <li>[01/2022] Our book chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">SSL for GNNs</a> is available in the book <a href="https://graph-neural-networks.github.io/">Graph Neural Networks: Foundations, Frontiers, and Applications</a>.</li>
 <li>[01/2022] Awarded NSF Student Travel Award to attend doctoral forum for WSDM2022!</li>
@@ -84,17 +84,17 @@ News
 2019-2021
 -----
 <ul>
-<li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">"Imbalanced Graph Classification via Graph-of-Graph Neural Networks"</a>! </li>
-<li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">"Generating Synthetic Systems of Interdependent Critical Infrastructure Networks"</a> has been accepted to IEEE System Journal! </li>
+<li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">GoG for Imbalanced Graph Learning</a>! </li>
+<li>[11/2021] Our work <a href="https://arxiv.org/abs/2111.12742#">Generating Synthetic Systems of Interdependent Critical Infrastructure Networks</a> has been accepted to IEEE System Journal! </li>
 <li>[11/2021] Invited to serve as sub-reviewer for TheWebConf2022 </li>
-<li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">"Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification"</a>! </li>
+<li>[10/2021] Preprint <a href="https://arxiv.org/abs/2110.12035#">Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification</a>! </li>
 <li>[10/2021] Invited to serve as sub-reviewer for SDM2022 </li>
 <li>[08/2021] Serving as the session chair at KDD2021!
 <li>[08/2021] Serving as sub-reviewer for WSDM2022!
 <li>[08/2021] Invited to serve as PC member for AAAI2021!
-<li>[08/2021] Our work <a href="https://arxiv.org/abs/2108.11022">"Tree Decomposed Graph Neural Network"</a> is accepted by CIKM 2021! </li>
-<li>[06/2021] Preprint <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">“Graph Neural Networks: Self-supervised Learning”</a>.</li>
+<li>[08/2021] Our work <a href="https://arxiv.org/abs/2108.11022">Tree Decomposed Graph Neural Network</a> is accepted by CIKM 2021! </li>
+<li>[06/2021] Preprint <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">SSL for GNNs</a>.</li>
 <li>[03/2021] Awarded Student Travel Award and Poster presentation at SDM'21 Doctoral Forum!"
 <li>[02/2021] Excited to Join NDS group supervised by Dr. Tyler Derr</li>    
 <li>[01/2021] Awarded free registration and volunteer position at IJCAI'20!</li>
-<li>[11/2020] Our work <a href="https://link.springer.com/chapter/10.1007/978-3-030-63393-6_34">"A Data-Integration Analysis on Road Emissions and Traffic Patterns’’</a> is accepted at Smoky Mountains 
+<li>[11/2020] Our work <a href="https://link.springer.com/chapter/10.1007/978-3-030-63393-6_34">A Data-Integration Analysis on Road Emissions and Traffic Patterns</a> is accepted at Smoky Mountains 
