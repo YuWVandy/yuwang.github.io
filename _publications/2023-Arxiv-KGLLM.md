@@ -1,5 +1,5 @@
 ---
-title: "Arxiv'23-Knowledge Graph Prompting for Multi-Document Question Answering"
+title: "Knowledge Graph Prompting for Multi-Document Question Answering"
 collection: publications
 permalink: /publication/2023-Arxiv-KGLLM
 date: 2023-08-14
