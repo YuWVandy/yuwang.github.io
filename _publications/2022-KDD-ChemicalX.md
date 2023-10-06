@@ -1,5 +1,5 @@
 ---
-title: "KDD'22-ChemicalX: A Deep Learning Library for Drug Pair Scoring"
+title: "ChemicalX: A Deep Learning Library for Drug Pair Scoring"
 collection: publications
 permalink: /publication/2022-KDD-ChemicalX
 date: 2022-08-14
