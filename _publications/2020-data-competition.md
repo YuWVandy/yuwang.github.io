@@ -1,5 +1,5 @@
 ---
-title: "A Data-Integration Analysis on Road Emissions and Traffic Patterns"
+title: "A Data-Integration Analysis on Road Emissions and Traffic Patterns (Winner of the Data Challenge and Best Paper Award)"
 collection: publications
 permalink: /publication/2020-data-competition
 date: 2020-12-18
