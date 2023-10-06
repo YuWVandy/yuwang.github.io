@@ -24,7 +24,7 @@ Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVa
 News
 ======
 
-🐇-2023
+🐰-2023
 -----
 <ul>
 <li>[09] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
