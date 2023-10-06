@@ -15,8 +15,8 @@ I am a final-year Ph.D. student in [Computer Science](https://engineering.vander
 Research Interests:
 ------
 - Graph Neural Networks, Graph Machine Learning
-- Data-centric AI and Graph Data-quality Issues: Imbalance/Bias/Topology/Weak
-- AI for Science
+- Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Bias/Weak
+- AI for Science/Infrastructures
 - Recommender Systems, Information Retrieval, Infrastructure Networks
 
 Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy) and [Linkein](https://www.linkedin.com/in/yu-wang-63359a196/)
