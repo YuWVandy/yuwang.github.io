@@ -23,6 +23,7 @@ Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVa
 
 News
 ======
+
 🐇-2023
 -----
 <ul>
@@ -43,6 +44,7 @@ News
 <li>[01] Invited to serve as PC member for both Research and Applied Track of KDD’23! </li>    
 <li>[01] Invited to serve as the Reviewer for DAMI! </li>    
 </ul>
+
 🐯-2022
 -----
 <ul>
@@ -80,6 +82,7 @@ News
 <li>[01] Our book chapter <a href="https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf">SSL for GNNs</a> is available in the book <a href="https://graph-neural-networks.github.io/">Graph Neural Networks: Foundations, Frontiers, and Applications</a>.</li>
 <li>[01] Awarded NSF Student Travel Award to attend doctoral forum for WSDM2022!</li>
 </ul>
+
 Before 🐲-2021
 -----
 <ul>
