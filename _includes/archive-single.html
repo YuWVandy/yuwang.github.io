@@ -57,7 +57,14 @@
       <!-- citation and icon code -->
       <p>
       {% if post.author %}
-        {{ post.author }}
+        {% for author in post.author.split(', ') %}
+            {% if author == "Yu Wang" %}
+                <strong>{{ author }}</strong>
+            {% else %}
+                {{ author }}
+            {% endif %}
+            {% if not forloop.last %}, {% endif %}
+        {% endfor %}
       {% endif %}
       <br>
       {% if post.venue %}
