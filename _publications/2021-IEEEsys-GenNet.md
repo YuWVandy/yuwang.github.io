@@ -1,5 +1,5 @@
 ---
-title: "Generating synthetic systems of interdependent critical infrastructure networks"
+title: "IEEE System-Generating synthetic systems of interdependent critical infrastructure networks"
 collection: publications
 permalink: /publication/2021-GenInfras
 date: 2021-12-24
