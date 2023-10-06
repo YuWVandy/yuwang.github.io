@@ -56,15 +56,14 @@
       
       <!-- citation and icon code -->
       <p>
-      {% if page.author %}
-        {% assign authors = page.author | split: ", " %}
+      {% if post.author %}
+        {% assign authors = post.author | split: ", " %}
         {% for author in authors %}
           {% if author == "Yu Wang" %}
             <strong>{{ author }}</strong>
           {% else %}
             {{ author }}
           {% endif %}
-          {% unless forloop.last %}, {% endunless %}
         {% endfor %}
       {% endif %}
       <br>
