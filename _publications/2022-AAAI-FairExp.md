@@ -1,5 +1,5 @@
 ---
-title: "AAAI'22-Fairness and Explainability: Bridging the Gap towards Fair Model Explanations"
+title: "Fairness and Explainability: Bridging the Gap towards Fair Model Explanations"
 collection: publications
 permalink: /publication/2022-AAAI-FairExp
 date: 2023-06-26
