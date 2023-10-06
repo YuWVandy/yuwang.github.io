@@ -56,8 +56,12 @@
       
       <!-- citation and icon code -->
       <p>
-      {% if post.citation %}
-        {{ post.citation }}
+      {% if post.author %}
+        {{ post.author }}
+      {% endif %}
+      <br>
+      {% if post.venue %}
+        {{ post.venue }}
       {% endif %}
       <br>
       {% if post.link %}
@@ -71,12 +75,6 @@
       {% endif %}
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.author %}
-        {{ post.author }}
-      {% endif %}
-      {% if post.venue %}
-        {{ post.venue }}
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
