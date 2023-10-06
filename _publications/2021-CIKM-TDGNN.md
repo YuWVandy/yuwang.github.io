@@ -1,5 +1,5 @@
 ---
-title: "CIKM'21-Tree Decomposed Graph Neural Network"
+title: "Tree Decomposed Graph Neural Network"
 collection: publications
 permalink: /publication/2021-TDGNN
 date: 2021-10-30
