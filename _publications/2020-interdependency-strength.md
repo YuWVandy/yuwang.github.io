@@ -7,4 +7,5 @@ venue: 'Proceedings of the 30th European Safety and Reliability Conference and 1
 paperurl: '/files/pdf/research/interdependencystrength.pdf'
 link: 'https://par.nsf.gov/biblio/10233935'
 citation: 'In this work, we propose a new way to quantify the importance of the interdependency strength via measuring the vulnerability of infrastructure networks with and without interdependent links'
+author: Yu Wang, Jinzhu Yu, Hiba Baroud
 ---
