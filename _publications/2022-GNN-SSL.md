@@ -1,5 +1,5 @@
 ---
-title: "Graph neural networks: Self-supervised learning"
+title: "Book Chapter-Graph neural networks: Self-supervised learning"
 collection: publications
 permalink: /publication/2022-GNN-SSL
 date: 2022-01-03
