@@ -1,5 +1,5 @@
 ---
-title: "KDD'22-On Structural Explanation of Bias in Graph Neural Networks"
+title: "On Structural Explanation of Bias in Graph Neural Networks"
 collection: publications
 permalink: /publication/2022-KDD-StructFair
 date: 2022-08-14
