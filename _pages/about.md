@@ -27,9 +27,9 @@ News
 2023
 -----
 <ul>
-<li>[09/2023] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
-<li>[09/2023] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLM</a> is available now!</li>
-<li>[09/2023] Invited to serve as PC for SDM24! </li>
+<li>🐰[09/2023] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
+<li>🐰[09/2023] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLM</a> is available now!</li>
+<li>🐰[09/2023] Invited to serve as PC for SDM24! </li>
 <li>[08/2023] Invited to serve as the reviewer for LOG24! </li>
 <li>[08/2023] Invited to serve as PC for WSDM24 and AAAI24! </li>
 <li>[07/2023] Preprint survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> is available now!</li>
