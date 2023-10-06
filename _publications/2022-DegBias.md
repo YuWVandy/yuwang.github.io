@@ -1,5 +1,5 @@
 ---
-title: "ICDMW'22-Degree-Related Bias in Link Prediction"
+title: "Degree-Related Bias in Link Prediction"
 collection: publications
 permalink: /publication/2022-ICDM-degbias
 date: 2022-11-28
