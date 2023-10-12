@@ -17,7 +17,7 @@ Education
   * Sept. 2015 - June 2019
 
 You can find my <a href='https://github.com/YuWVandy/YuWVandy.github.io/blob/master/_pages/cv.pdf
-'>CV</a> here
+' target="_blank">CV</a> here
 
 Work experience
 -----
