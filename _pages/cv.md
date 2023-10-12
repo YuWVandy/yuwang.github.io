@@ -16,7 +16,8 @@ Education
 * B.S. in Harbin Institute of Technology
   * Sept. 2015 - June 2019
 
-You can find my <a href='https://github.com/YuWVandy/YuWVandy.github.io/cv.pdf'>CV</a> here
+You can find my <a href='https://raw.githubusercontent.com/YuWVandy/YuWVandy.github.io/_pages/cv.pdf
+'>CV</a> here
 
 Work experience
 -----
