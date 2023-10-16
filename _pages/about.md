@@ -19,7 +19,7 @@ Research Interests:
 - AI for Science/Infrastructures
 - Recommender Systems, Information Retrieval, Infrastructure Networks
 
-Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy) and [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/)
+Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
 News
 ======
