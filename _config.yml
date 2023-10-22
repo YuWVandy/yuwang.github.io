@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   LinkedIn         : "https://www.linkedin.com/in/yu-wang-63359a196/"
-  orcid            : "https://orcid.org/0000-0001-6908-508X"
+  orcid            : #"https://orcid.org/0000-0001-6908-508X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
