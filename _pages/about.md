@@ -12,7 +12,7 @@ I am a final-year Ph.D. student in [Computer Science](https://engineering.vander
 
 <span style="color:red">**I am currently on the job market considering both industrial and academic positions! Meanwhile, I also welcome any potential summer internship next year!**</span>
 
-Research Interests:
+Research Interests (<a href='https://yuwvandy.github.io/_pages/2023_CV_Yu_Wang.pdf'>Research Interests</a>):
 ------
 - Graph Neural Networks, Graph Machine Learning
 - Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Bias/Weak
