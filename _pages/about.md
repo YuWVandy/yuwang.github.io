@@ -27,8 +27,9 @@ News
 🐰-2023
 -----
 <ul>
+<li>[10] Glad to share that our paper <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> has been accepted at Neurips'GLFrontiers workshop, see you in New Orleans!</li>
 <li>[09] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
-<li>[09] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLM</a> is available now!</li>
+<li>[09] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> is available now!</li>
 <li>[09] Invited to serve as PC for SDM24! </li>
 <li>[08] Invited to serve as the reviewer for LOG24! </li>
 <li>[08] Invited to serve as PC for WSDM24 and AAAI24! </li>
