@@ -27,6 +27,7 @@ News
 🐰-2023
 -----
 <ul>
+<li>[11] Our tutorial 📚 Data-quality-aware Graph Machine Learning has been accepted at SDM'24 Tutorial, see you in Houston!</li>
 <li>[10] Our paper <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> has been accepted at Neurips'GLFrontiers workshop, see you in New Orleans!</li>
 <li>[09] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
 <li>[09] Preprint paper on <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> is available now!</li>
