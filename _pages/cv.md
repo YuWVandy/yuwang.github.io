@@ -28,6 +28,7 @@ Work experience
 
 Awards
 -----
+* Sole Best Paper Award at GLFrontiers Workshop in Neurips, 2023
 * Vanderbilt’s Graduate Leadership Anchor Award for Research, 2023
 * Vanderbilt's C.F.Chen Best Paper Award Runner-up as Co-author, 2023
 * American Bureau of Shipping Scholarship Award, 2023
