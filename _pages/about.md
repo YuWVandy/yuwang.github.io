@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final-year Ph.D. student in [Computer Science](https://engineering.vanderbilt.edu/cs/) at [Vanderbilt University](https://vanderbilt.edu) advised by [Dr. Tyler Derr](https://www.cse.msu.edu/~derrtyle/). Prior to that, I completed my B.E. degree at Harbin Institute of Technology in 2019. My main research interests focus on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Graph-enhanced Recommender Systems and Information Retrieval. I have multiple publications in KDD, WWW, CIKM, WSDM, and AAAI. In addition, I regularly serve as PC members and reviewers for multiple international conferences and journals in machine learning and data mining, such as KDD, ICML, AAAI, WWW, WSDM, CIKM, TKDD, and TNNLS. In addition, I won the best paper award in the <a href='https://engineering.vanderbilt.edu/news/2020/student-team-takes-top-honors-in-data-science-challenge/'>2020 Smokey Mountain Data Challenge Competition by ORNL</a>, first-author of <a href='https://engineering.vanderbilt.edu/ece/Graduate/best-paper.php'>Vanderbilt’s C.F.Chen Best Paper Award in 2022</a>, co-author of <a href='https://engineering.vanderbilt.edu/ece/Graduate/best-paper.php'>Vanderbilt's C.F. Chen Best Paper Runner-Up Award in 2023</a>, and selected as the sole graduate student recipient of <a href='https://news.vanderbilt.edu/2023/08/04/five-students-receive-2023-graduate-leadership-anchor-awards/'>Vanderbilt's Graduate Leadership Anchor Award for Research in 2023</a>. Moreover, my work Imbalanced Graph Classification via GoG and Collaboration-aware Graph Convolution has been selected as the top-10 most influential paper in <a href='https://www.paperdigest.org/2023/09/most-influential-cikm-papers-2023-09/'>CIKM'22</a> and <a href='https://www.paperdigest.org/2023/09/most-influential-www-papers-2023-09/'>WWW'23</a>.
 
-<span style="color:red">**I am currently on the job market considering both industrial and academic positions! Meanwhile, I also welcome any potential summer internship next year!**</span>
+<span style="color:red">**I am currently on the job market considering both industrial and academic positions!**</span>
 
 Research Interests (<a href='https://yuwvandy.github.io/_pages/2023_RS_YuWang_Oct_20.pdf'>Research Statement)</a>:
 ------
@@ -29,6 +29,7 @@ News
 <ul>
 <li>[12] 🎉🎉🎉<span style="color:red"><b>Honored to receive the Best Paper Award for our paper 📰 Knowledge Graph Prompting for LLMs at GLFrontiers Workshop in Neurips'23!</b></span></li>
 <li>[12] Two papers 📰 Knowledge Graph Prompting for LLMs and 👫 Fair Dating Recommendation have been accepted at AAAI'24!</li>
+<li>[12] Glad that I have successfully passed my qualification exam 📈!</li>
 <li>[11] Our tutorial 📚 Data-quality-aware Graph Machine Learning has been accepted at SDM'24 Tutorial, see you in Houston!</li>
 <li>[10] Our paper <a href='https://arxiv.org/abs/2308.11730'>KG-based Prompting for LLMs</a> has been accepted at Neurips'GLFrontiers workshop Oral presentation 📣, see you in New Orleans!</li>
 <li>[09] Preprint survey on <a href='https://arxiv.org/abs/2307.03929'>Fairness in GNNs</a> is available now!</li>
