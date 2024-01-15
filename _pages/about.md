@@ -23,6 +23,11 @@ Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVa
 
 News
 ======
+🐲-2023
+-----
+<ul>
+<li>[01] Invited to give a virtual talk on Topology-aware Retrieval Augmented Generation (Topo-RAG) in <a href='https://log2023midnorth.github.io/#:~:text=What%20is%20this%20about%3F,the%20University%20of%20Notre%20Dame.'>LoG Meetup at the University of Notre Dame</a>!
+</ul>
 
 🐰-2023
 -----
