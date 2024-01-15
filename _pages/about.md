@@ -27,7 +27,7 @@ News
 🐲-2024
 -----
 <ul>
-<li>[01] Invited to give a virtual talk on Topology-aware Retrieval Augmented Generation (Topo-RAG) in <a href='https://log2023midnorth.github.io/#:~:text=What%20is%20this%20about%3F,the%20University%20of%20Notre%20Dame.'>LoG Meetup at the University of Notre Dame</a>!
+<li>[01] Invited to give a virtual talk on Topology-aware Retrieval Augmented Generation (Topo-RAG) in <a href='https://log2023midnorth.github.io/'>LoG Meetup at the University of Notre Dame!</a></li>
 </ul>
 
 🐰-2023
