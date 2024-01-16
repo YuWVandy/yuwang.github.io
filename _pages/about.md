@@ -95,7 +95,7 @@ News
 <li>[01] Awarded NSF Student Travel Award to attend doctoral forum for WSDM2022!</li>
 </ul>
 
-Before 🐲-2021
+Before 🐮-2021
 -----
 <ul>
 <li>[12/2021] Preprint <a href="https://arxiv.org/abs/2112.00238#">GoG for Imbalanced Graph Learning</a>! </li>
