@@ -27,7 +27,7 @@ News
 🐲-2024
 -----
 <ul>
-<li>[01] My first author paper on Topological Perspective for GNNs' Link Prediction has been accepted at ICLR'24!</a></li>
+<li>[01] My first author paper on Topological Perspective for GNNs' Link Prediction has been accepted at ICLR'24!</li>
 <li>[01] Invited to give a virtual talk on Topology-aware Retrieval Augmented Generation (Topo-RAG) in <a href='https://log2023midnorth.github.io/'>LoG Meetup at the University of Notre Dame!</a></li>
 </ul>
 
