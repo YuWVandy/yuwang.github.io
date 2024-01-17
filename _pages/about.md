@@ -27,14 +27,14 @@ News
 🐲-2024
 -----
 <ul>
-<li>[01] 🍻🍻🍻 My first author paper on Topological Perspective for GNNs' Link Prediction has been accepted at ICLR'24!</li>
+<li>[01] 🍻🍻🍻 My first author paper on Topological Perspective for GNNs' Link Prediction has been accepted at ICLR'24, thanks all collaborators and support from Snap!</li>
 <li>[01] Invited to give a virtual talk on Topology-aware Retrieval Augmented Generation (Topo-RAG) in <a href='https://log2023midnorth.github.io/'>LoG Meetup at the University of Notre Dame!</a></li>
 </ul>
 
 🐰-2023
 -----
 <ul>
-<li>[12] 🎉🎉🎉<span style="color:red"><b>Honored to receive the Best Paper Award for our paper 📰 Knowledge Graph Prompting for LLMs at GLFrontiers Workshop in Neurips'23!</b></span></li>
+<li>[12] 🎉🎉🎉<span style="color:red"><b>Honored to receive the Best Paper Award for our paper 📰 Knowledge Graph Prompting for LLMs at GLFrontiers Workshop in Neurips'23, thanks all collaborators from Adobe!</b></span></li>
 <li>[12] Two papers 📰 Knowledge Graph Prompting for LLMs and 👫 Fair Dating Recommendation have been accepted at AAAI'24!</li>
 <li>[12] Glad that I have successfully passed my qualification exam 📈!</li>
 <li>[11] Our tutorial 📚 Data-quality-aware Graph Machine Learning has been accepted at SDM'24 Tutorial, see you in Houston!</li>
