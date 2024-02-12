@@ -27,6 +27,7 @@ News
 🐲-2024
 -----
 <ul>
+<li>[02] 👫👫👫 Our paper on Fairness-aware GNNs has been accepted at TKDD, thanks to all collaborators!</li>
 <li>[02] 🛒🛒🛒 Our paper on Knowledge Graph for Session Recommendation has been accepted at WWW'24 Industrial Track, thanks to all collaborators and gift funding from The Home Depot!</li>
 <li>[01] 👫👫👫 Our paper on multi-embeddings for a fair recommendation has been accepted at WWW'24, congratulations to Yuying, and also thanks to all collaborators and support from Visa Research!</li>
 <li>[01] 🍻🍻🍻 My first author paper on Topological Perspective for GNNs' Link Prediction has been accepted at ICLR'24, thanks to all collaborators and support from Snap!</li>
