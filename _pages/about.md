@@ -27,6 +27,7 @@ News
 🐲-2024
 -----
 <ul>
+<li>[02] Invited to serve as PC member at KDD'24 and ECMLPKDD'24!</li>
 <li>[02] Our survey paper on Fairness-aware GNN has been accepted at TKDD'24, thanks to all collaborators!</li>
 <li>[02] 🛒🛒🛒 Our paper on Knowledge Graph for Session Recommendation has been accepted at WWW'24 Industrial Track, thanks to all collaborators and gift funding from The Home Depot!</li>
 <li>[01] 👫👫👫 Our paper on multi-embeddings for a fair recommendation has been accepted at WWW'24, congratulations to Yuying, and also thanks to all collaborators and support from Visa Research!</li>
