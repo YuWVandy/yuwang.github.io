@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Publication"
+permalink: /publication/
 author_profile: true
 ---
 Most up-to-date publications are [here](https://yuwvandy.github.io/_pages/2023_CV_Yu_Wang.pdf#nameddest=PUBLICATIONS)
