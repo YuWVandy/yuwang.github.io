@@ -26,7 +26,7 @@ You can find my most up-to-date service [here](https://yuwvandy.github.io/_pages
 - SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022
 
 
-**Conference (Sub-)Reviewer**
+**Conference Reviewer**
 - Learning on Graphs Conference (LOG), 2023
 - Association for the Advancement of Artificial Intelligence (AAAI), 2023
 - ACM International Conference on Web Search and Data Mining (WSDM), 2023
