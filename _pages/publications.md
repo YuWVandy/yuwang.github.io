@@ -13,17 +13,17 @@ Most up-to-date publications are [here](https://yuwvandy.github.io/_pages/2023_C
 
 **Book Chapter**
 - **Yu Wang**, Wei Jin, Tyler Derr
-<br> **Graph Neural Networks: Self-supervised Learning** [[Chapter]](https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18)
-<br> In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao. Springer. [[Book]](https://link.springer.com/book/10.1007/978-981-16-6054-2)
+<br> **Graph Neural Networks: Self-supervised Learning**
+<br> In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao. Springer. [[Chapter]](https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18)[[Book]](https://link.springer.com/book/10.1007/978-981-16-6054-2)
 
 **Preprints**
 - Yi Zhang, Yuying Zhao, Zhaoqing Li, Xueqi Cheng, **Yu Wang**, Olivera Kotevska, Philip S. Yu, Tyler Derr
   <br> **A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**
-  <br> Arxiv 2023 [[Paper]]() [[Code]]()
+  <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2308.16375) [[Code]]()
   
 - Yuying Zhao, **Yu Wang**, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, Tyler Derr
  <br> **Fairness and Diversity in Recommender Systems: A Survey**
- <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.04644) [[Code]]()
+ <br> Arxiv 2023 [[Paper]](https://arxiv.org/abs/2307.04644) [[Code]](https://github.com/YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems)
 
 - Yunchao Liu, Rocco Moretti, **Yu Wang**, Bobby Bodenheimer, Tyler Derr, Jens Meiler
  <br> **Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling**
