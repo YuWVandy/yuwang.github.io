@@ -19,7 +19,7 @@ Education
 You can find my <a href='https://YuWVandy.github.io/_pages/2023_CV_Yu_Wang.pdf' target="_blank">CV</a> here
 
 
-Work experience
+Experience
 -----
 * Sept. 2019 - Now: Research Assistant/Teaching Assistant, Vanderbilt University
 * May 2023 - Dec 2023: Research Intern, Adobe Inc.
