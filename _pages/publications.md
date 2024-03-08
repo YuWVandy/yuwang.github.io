@@ -26,7 +26,7 @@ Most up-to-date publications are [here](https://yuwvandy.github.io/_pages/2023_C
 
 - **Yu Wang**, Charu Aggarwal, Tyler Derr
  <br>**Distance-wise Prototypical Graph Neural Network in Node Imbalance Classification**
- <br>[arXiv preprint 2022](https://arxiv.org/abs/2110.12035)[code](https://github.com/YuWVandy/DPGNN)
+ <br>[arXiv preprint 2022](https://arxiv.org/abs/2110.12035) [code](https://github.com/YuWVandy/DPGNN)
 
 
 \EntryGap
