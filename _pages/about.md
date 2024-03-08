@@ -29,6 +29,8 @@ News
 🐲-2024
 -----
 <ul>
+<li>[02] Thrilled to receive 2023-2024 Vanderbilt Outstanding Doctoral Student Award!</li>
+<li>[02] Invited to give talks at the University of Oregon, Memphis and Arizona!</li>
 <li>[02] Invited to serve as PC member at KDD'24 and ECMLPKDD'24!</li>
 <li>[02] Our survey paper on Fairness-aware GNN has been accepted at TKDD'24, thanks to all collaborators!</li>
 <li>[02] 🛒🛒🛒 Our paper on Knowledge Graph for Session Recommendation has been accepted at WWW'24 Industrial Track, thanks to all collaborators and gift funding from The Home Depot!</li>
