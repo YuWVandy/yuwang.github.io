@@ -14,12 +14,12 @@ Yu Wang is a final-year Ph.D. candidate in [Computer Science](https://engineerin
 
 <span style="color:red">**[Recruiting Ph.D. students and interns!]**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to drop me an email with your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
-Research Interests (<a href='https://yuwvandy.github.io/_pages/2023_RS_YuWang_Oct_20.pdf'>Research Statement)</a>:
+Research Interests:
 ------
-- Graph Neural Networks, Graph Machine Learning
-- Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Bias/Weak
-- AI for Science/Infrastructures
-- Recommender Systems, Information Retrieval, Infrastructure Networks
+- Graph Machine Learning, Graph Neural Networks
+- Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Limited Data
+- Trustworthy AI: Bias/Fairness/Hallucination/Robustness
+- AI for Science/Infrastructure/Information Retrieval
 
 Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
