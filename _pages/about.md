@@ -12,7 +12,7 @@ Yu Wang is a final-year Ph.D. candidate in [Computer Science](https://engineerin
 
 🦆🦆🦆 <span style="color:red">**I will join the Department of Computer Science at the University of Oregon as a tenure-track Assistant Professor!**</span>
 
-📢📢📢 <span style="color:red">**[Recruiting Ph.D. students and interns!]**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to drop me an email with your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
+📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to drop me an email with your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
 Research Interests:
 ------
