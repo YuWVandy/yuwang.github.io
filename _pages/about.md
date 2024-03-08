@@ -19,7 +19,7 @@ Research Interests:
 - Graph Machine Learning, Graph Neural Networks
 - Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Limited Data
 - Trustworthy AI: Bias/Fairness/Hallucination/Robustness
-- AI for Science/Infrastructure/Information Retrieval
+- AI for Science/Infrastructure/Information Retrieval/Cybersecurity
 
 Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
