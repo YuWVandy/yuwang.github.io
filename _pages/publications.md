@@ -15,6 +15,3 @@ author_profile: true
 
 
 **Conference/Journal Papers**
-
-
-**Workshop Papers**
