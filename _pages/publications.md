@@ -42,7 +42,7 @@ Most up-to-date publications are [here](https://yuwvandy.github.io/_pages/2023_C
 
 - April Chen, Ryan A. Rossi, Namyong Park, Puja Trivedi, **Yu Wang**, Tong Yu, Sungchul Kim, Franck Dernoncourt, Nesreen K. Ahmed
   <br> **Fairness-Aware Graph Neural Networks: A Survey**
-  <br> TKDD journal [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649142)
+  <br> ACM Transactions on Knowledge Discovery from Data [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649142)
 
 - **Yu Wang**, Amin Javari, Janani Balaji, Walid Shalaby, Tyler Derr, Xiquan Cui
   <br> **Knowledge Graph-Based Sequential Recommendation with Session-Adaptive Propagation**
