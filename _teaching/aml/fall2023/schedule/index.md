@@ -39,10 +39,9 @@ title: Schedule
   <a href="/teaching/aml/fall2023/project">Project</a>
 </div>
 
-{% include teaching/aml/fall2023/schedule.html %}
-
 ---
 
 <br>
 
 # Schedule
+{% include teaching/aml/fall2023/schedule.html %}
