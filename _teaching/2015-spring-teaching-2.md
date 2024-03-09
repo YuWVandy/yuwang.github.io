@@ -43,25 +43,6 @@ title: Advanced Machine Learning
 
 <br>
 
-This is the course webpage for Advanced Machine Learning.
+This is the course webpage for Graph
 
-## Instructor
 
-Matthew Berger
-
-email: <a href="mailto:matthew.berger@vanderbilt.edu">matthew.berger@vanderbilt.edu</a><br>
-
-Office: Sony building, Rm 4028
-
-Office hours: TR 2:00-3:00
-
-## Lectures
-
-MW 3:35-4:50pm, FGH 129
-
-## Syllabus
-
-Go [here](/teaching/aml/fall2023/syllabus) for the syllabus.
-
-## Schedule
-{% include teaching/aml/fall2023/schedule.html %}
