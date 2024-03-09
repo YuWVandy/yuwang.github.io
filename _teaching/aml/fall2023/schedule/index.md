@@ -44,5 +44,3 @@ title: Schedule
 <br>
 
 # Schedule
-
-{% include teaching/aml/fall2023/schedule.html %}
