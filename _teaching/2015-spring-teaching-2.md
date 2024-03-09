@@ -64,5 +64,3 @@ MW 3:35-4:50pm, FGH 129
 Go [here](/teaching/aml/fall2023/syllabus) for the syllabus.
 
 ## Schedule
-
-{% include teaching/aml/fall2023/schedule.html %}
