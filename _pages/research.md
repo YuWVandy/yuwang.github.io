@@ -12,6 +12,6 @@ author_profile: true
 
 **Trustworthy AI**
 
-**Geometric Augmented AI**
+**Geometric AI**
 
 **Applications**
