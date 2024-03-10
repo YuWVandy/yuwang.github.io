@@ -9,10 +9,18 @@ Most up-to-date teaching experiences are [here](https://yuwvandy.github.io/_page
 **Course**
 
 **Teaching Assistant**
-- CS4260: Artificial Intelligence (Undergraduate/Graduate, Spring 2023)
-- DS5720: Social Network Analysis (Graduate, Fall 2022)
-- CS3891/5891: Social Network Analysis (Undergraduate/Graduate, Fall 2021)
-- CE3300: Risk, Reliability and Resilience Engineering (Undergraduate, Spring 2020)
+- CS4260: Artificial Intelligence
+  <br> Undergraduate/Graduate, Spring 2023
+  <br> Vanderbilt University, Nashville, TN
+- DS5720: Social Network Analysis
+  <br> Graduate, Fall 2022
+  <br> Vanderbilt University, Nashville, TN
+- CS3891/5891: Social Network Analysis
+  <br> Undergraduate/Graduate, Fall 2021
+  <br> Vanderbilt University, Nashville, TN
+- CE3300: Risk, Reliability and Resilience Engineering
+  <br> Undergraduate, Spring 2020
+  <br> Vanderbilt University, Nashville, TN
 
 **Guest Lecture**
 - Spectral Methods for Graph Partitioning, March 2024
