@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![123](../imgs/Research.png)
+![123](../images/Research.png)
 
 
 **Data-centric AI**
