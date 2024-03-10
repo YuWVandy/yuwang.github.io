@@ -9,16 +9,20 @@ Most up-to-date publications are [here](https://yuwvandy.github.io/_pages/2023_C
 **Course**
 
 **Teaching Assistant**
+- CS4260: Artificial Intelligence (Undergraduate/Graduate, Spring 2023)
+- DS5720: Social Network Analysis (Graduate, Fall 2022)
+- CS3891/5891: Social Network Analysis (Undergraduate/Graduate, Fall 2021)
+- CE3300: Risk, Reliability and Resilience Engineering (Undergraduate, Spring 2020)
 
 **Guest Lecture**
-- March 2024, Spectral Methods for Graph Partitioning, 
+- Spectral Methods for Graph Partitioning, March 2024
   <br> Social Network Analysis, Data Science Institute
   <br> Vanderbilt University, Nashville, TN
 
-- Nov 2023, Scalability of Graph Neural Networks (GNNs), 
+- Scalability of Graph Neural Networks (GNNs), Nov 2023
   <br> Social Network Analysis, Computer Science Department
   <br> Vanderbilt University, Nashville, TN
   
-- Oct 2021, Measuring Node Centrality in Social Network Analysis, 
+- Measuring Node Centrality in Social Network Analysis, Oct 2021
   <br> Social Network Analysis, Computer Science Department
   <br> Vanderbilt University, Nashville, TN
