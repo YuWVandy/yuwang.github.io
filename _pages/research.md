@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![Editing a markdown file for a talk](/Research.png)
+![123](../imgs/Research.png)
 
 
 **Data-centric AI**
