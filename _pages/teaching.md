@@ -7,7 +7,7 @@ author_profile: true
 Most up-to-date teaching experiences are [here](https://yuwvandy.github.io/_pages/2023_CV_Yu_Wang.pdf#nameddest=TEACHING%20EXPERIENCE)
 
 **Course**
-- Network Analysis and Graph Machine Learning
+- Network Analysis and Graph Machine Learning - TBD
 
 **Teaching Assistant**
 - CS4260: Artificial Intelligence
