@@ -34,7 +34,7 @@ I am recruiting PhD students to work with me on topics in my general interests (
 **University Introduction**
 
 The University of Oregon, founded in 1876, is a nationally renowned public research university in the United States. According to the 2023 US News national university rankings, the University of Oregon is ranked 98th overall, with its computer science program ranked 71st. This historic institution has produced three Nobel laureates, 13 Pulitzer Prize winners, 19 Rhodes Scholars, and five Marshall Scholars.
-![123](../images/UO.png)
+![123](../images/uo.png)
 
 The University of Oregon is located in the tax-free state of Oregon, home to famous technology companies like Intel, sports goods company Nike, and outdoor sports brand Columbia. The campus is situated in the scenic city of Eugene, the state's second-largest city with a population of nearly 200,000. Its location is strategically advantageous: 177 kilometers (110 miles, a 1.5-hour drive) north to Portland, a paradise for tax-free shopping and a hub for food and entertainment; to the west, Highway 101 leads directly to Heceta Beach, where you can enjoy endless ocean and beach views; to the east lies the Cascading Range, with the Hoodoo ski resort awaiting winter sports enthusiasts; and the McKenzie River Valley, which runs through the city, offers excellent fishing and rafting opportunities. Moreover, the university is conveniently located between two major U.S. cities, Seattle (455 kilometers/283 miles, a 4.5-hour drive or 1-hour flight) and San Francisco (852 kilometers/530 miles, an 8-hour drive or 1.5-hour flight), facilitating academic exchanges, travel options, and cultural experiences for faculty and students.
 ![123](../images/eugene.png)
