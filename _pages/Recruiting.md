@@ -9,9 +9,9 @@ I am recruiting PhD students to work with me on topics in my general interests (
 <br>**Please see below for more comprehensive position information**
 
 **Basic Information**
-- PhD/Master's/Intern
+- Target: PhD/Master/Intern
 - Contact Information: yuwangjack.hit@gmail.com/yu.wang.1@vanderbilt.edu
-- For Ph.D., the suggested TOEFL is beyond 88 and GRE is optional, see [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
+- Requirement: For PhD, the suggested TOEFL from the department is beyond 88 and the GRE is optional, see [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
 
 **Research Areas and Interests**
 - Machine Learning on Graphs, Graph Foundational Models, Graph Neural Networks
