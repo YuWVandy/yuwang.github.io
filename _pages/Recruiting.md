@@ -15,15 +15,15 @@ I am recruiting PhD students to work with me on topics in my general interests (
 
 **Research Areas and Interests**
 - Machine Learning on Graphs, Graph Foundational Models, Graph Neural Networks
-- Data-centric AI, Discovery, and Mitigation of Data-quality Issues such as Imbalance, Topology, and Limited Data
-- Trustworthy AI including Explainability, Fairness, Uncertainty, e.t.c.
+- Data-centric AI: Discovery, and Mitigation of Data-quality Issues such as Imbalance, Topology, and Limited Data
+- Trustworthy AI: Explainability, Fairness, Uncertainty, e.t.c.
 - Graph AI Applications for Science, Infrastructure, Information Retrieval, Cybersecurity
 
 **Student Recruitment Background**
 - Bachelor's or Master's degree (a computer science degree is not a prerequisite), with a passion for academia and endless curiosity for new knowledge and technologies.
 - Solid foundation in advanced mathematics, probability, and linear algebra
 - Strong execution capability, with good programming skills and hands-on ability
-- Effective communication and emotional expression, timely feedback on challenges, and proactive in seeking help
+- Effective communication and emotional expression, timely feedback and proactive in seeking help when facing challenges
 
 **Resources Provided:**
 - Full scholarship funding (TA/RA)
@@ -32,7 +32,7 @@ I am recruiting PhD students to work with me on topics in my general interests (
 - Established good cooperation with several universities and companies (HomeDepot, Adobe Research, Visa, Snap), with excellent Ph.D. students recommended for summer internships
 - Comprehensive guidance and advice. Since my Ph.D., I have realized the importance of good communication and mental health for the life and study during the Ph.D. phase. Therefore, I spend at least 1 to 3 hours per week discussing projects and chatting with Ph.D. students and interns.
 
-**University Introduction**
+**University and Location Introduction**
 
 The University of Oregon, founded in 1876, is a nationally renowned public research university in the United States. According to the 2023 US News national university rankings, the University of Oregon is ranked 98th overall, with its computer science program ranked 71st. This historic institution has produced three Nobel laureates, 13 Pulitzer Prize winners, 19 Rhodes Scholars, and five Marshall Scholars.
 ![123](../images/uo.png)
