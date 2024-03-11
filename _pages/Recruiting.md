@@ -11,7 +11,7 @@ I am recruiting PhD students to work with me on topics in my general interests (
 **Basic Information**
 - PhD/Master's/Intern
 - Contact Information: yuwangjack.hit@gmail.com/yu.wang.1@vanderbilt.edu
-- For Ph.D., the suggested TOEFL is beyond 88 and GRE is optional
+- For Ph.D., the suggested TOEFL is beyond 88 and GRE is optional, see [here](https://scds.uoregon.edu/cs/graduate-programs/phd) for more detailed information.
 
 **University Introduction**
 The University of Oregon, founded in 1876, is a nationally renowned public research university in the United States. According to the 2023 US News national university rankings, the University of Oregon is ranked 98th overall, with its computer science program ranked 71st. This historic institution has produced three Nobel laureates, 13 Pulitzer Prize winners, 19 Rhodes Scholars, and five Marshall Scholars.
