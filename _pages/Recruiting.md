@@ -4,7 +4,7 @@ title: "Recruting"
 permalink: /recruiting/
 author_profile: true
 ---
-I am recruiting PhD students to work with me on topics in my general interests (see Research page for more details). Masters and undergraduate students are also welcome. Please feel free to email me.
+I am recruiting PhD students to work with me on topics in my general interests (see [Research page](https://yuwvandy.github.io/research/) for more details). Masters and undergraduate students are also welcome. Please feel free to email me.
 
 <br>**Please see below for more comprehensive information**
 
