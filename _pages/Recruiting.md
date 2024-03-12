@@ -27,10 +27,10 @@ I am recruiting PhD students to work with me on topics in my general interests (
 
 **Resources Provided:**
 - Full scholarship funding (TA/RA)
-- Sufficient computing resources (plans to purchase a server with 6-8 A6000s using startup funds)
-- Encouragement and support for attending domestic and international academic conferences
-- Established good cooperation with several universities and companies (HomeDepot, Adobe Research, Visa, Snap), with excellent Ph.D. students recommended for summer internships
-- Comprehensive guidance and advice. Since my Ph.D., I have realized the importance of good communication and mental health for the life and study during the Ph.D. phase. Therefore, I spend at least 1 to 3 hours per week discussing projects and chatting with Ph.D. students and interns.
+- Sufficient computing resources (plans to purchase a server with 6-8 A6000s)
+- Encouragement and support for attending domestic/international academic conferences
+- Established good cooperation with several universities and companies (HomeDepot, Adobe Research, Visa, Snap), with excellent Ph.D. students recommended for summer/in-semester internships
+- Comprehensive guidance and advice. Since my Ph.D., I have realized the importance of good communication and mental health for the life/study of Ph.D. students. Therefore, I usually spend at least 1 to 3 hours per week discussing projects and chatting with Ph.D. students and interns.
 
 **University and Location Introduction**
 
