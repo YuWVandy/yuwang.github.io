@@ -16,14 +16,14 @@ I am recruiting PhD students to work with me on topics in my general interests (
 **Research Areas and Interests**
 - Machine Learning on Graphs, Graph Foundational Models, Graph Neural Networks
 - Data-centric AI: Discovery, and Mitigation of Data-quality Issues such as Imbalance, Topology, and Limited Data
-- Trustworthy AI: Explainability, Fairness, Uncertainty, e.t.c.
+- Trustworthy AI: Explainability, Fairness, Uncertainty, etc.
 - Graph AI Applications for Science, Infrastructure, Information Retrieval, Cybersecurity
 
 **Student Recruitment Background**
 - Bachelor's or Master's degree (a computer science degree is not a prerequisite), with a passion for academia and endless curiosity for new knowledge and technologies.
 - Solid foundation in mathematics, probability, and linear algebra
 - Strong execution capability, with good programming skills and hands-on ability
-- Effective communication and emotional expression, proactive in feedback and seeking help when facing challenges
+- Effective communication and emotional expression, proactive in feedback, and seeking help when facing challenges
 
 **Resources Provided:**
 - Full scholarship funding (TA/RA)
