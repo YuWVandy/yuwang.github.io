@@ -14,6 +14,9 @@ Yu Wang is a final-year Ph.D. candidate in [Computer Science](https://engineerin
 
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to drop me an email with your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
+📢📢📢 <span style="color:red">**See this for the comprehensive information in [English](https://yuwvandy.github.io/recruiting/)**
+📢📢📢 <span style="color:red">**See this for the comprehensive information in [Chinese](https://mp.weixin.qq.com/s/ulv71WoDC0Oi7WbXzmdl1Q)**
+
 Research Interests:
 ------
 - Graph Machine Learning, Graph Neural Networks
