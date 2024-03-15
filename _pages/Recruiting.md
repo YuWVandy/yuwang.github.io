@@ -4,11 +4,12 @@ title: "Recruting"
 permalink: /recruiting/
 author_profile: true
 ---
-I am recruiting self-motivated, creative and hard-working PhD students to work with me on topics in my general interests (see [Research page](https://yuwvandy.github.io/research/) for more details). Masters and undergraduate students are also welcome. Please feel free to email me.
+I am recruiting PhD students to work with me on topics in my general interests (see [Research page](https://yuwvandy.github.io/research/) for more details). Masters and undergraduate students are also welcome. Please feel free to email me.
 
 <br>**Please see below for more comprehensive information**
 
 **University Introduction**
+
 The University of Oregon (UO), founded in 1876, is a nationally renowned public research university in the United States. UO is a Carnegie Research I (R1) university. According to the 2023 US News national university rankings, UO is ranked 98th overall and 49th among top public schools, with its computer science program ranked 71th according to US News and 87th according to CS ranking.  This historic institution has produced three Nobel laureates, 13 Pulitzer Prize winners, 19 Rhodes Scholars, and five Marshall Scholars.
 ![123](../images/uo.png)
 
