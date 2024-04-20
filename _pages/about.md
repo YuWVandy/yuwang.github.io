@@ -33,6 +33,9 @@ News
 🐲-2024
 -----
 <ul>
+<li>[04] Honored to receive the Best Doctoral Forum Power Runner-ups at SDM'24!</li>
+<li>[04] Invited to give a keynote talk at the workshop of <a href='https://dssmh.github.io/'>Data Science for Smart Manufacturing and Healthcare!</a></li>
+<li>[03] Our paper on KG for Session Recommendation has been selected as the Oral Presentation at WWW'24 Industrial Track!</li>
 <li>[02] Thrilled to receive 2023-2024 Vanderbilt Outstanding Doctoral Student Award!</li>
 <li>[02] Invited to give talks at the University of Oregon, Memphis and Arizona!</li>
 <li>[02] Invited to serve as PC member at KDD'24 and ECMLPKDD'24!</li>
