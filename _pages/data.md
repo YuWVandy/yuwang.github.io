@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Data-quality-aware Graph Machine Learning"
 permalink: /tutorial/
 author_profile: true
