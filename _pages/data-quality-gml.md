@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Data-quality-aware Graph Machine Learning"
-permalink: /tutorial-data-gml/
+permalink: /service/
 author_profile: true
 ---
 
