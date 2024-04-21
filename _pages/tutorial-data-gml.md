@@ -78,8 +78,6 @@ Location: Mesquite Room (at The Westin Houston, Memorial City in Houston, TX)
 
 ## Summary
 <img src="https://github.com/YuWVandy/YuWVandy.github.io/blob/master/images/tree.png" class="img-responsive" width="75%" />
-<br>
-<br>
 
 ## Slides
 You can download our slides or see them embedded below.
