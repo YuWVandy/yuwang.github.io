@@ -1,6 +1,6 @@
 ---
 title: "Data-quality-aware Graph Machine Learning"
-permalink: /tutorial/
+permalink: /tutorial-data-gml/
 author_profile: true
 ---
 
