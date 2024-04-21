@@ -77,15 +77,13 @@ Location: Mesquite Room (at The Westin Houston, Memorial City in Houston, TX)
 </ul>
 
 ## Summary
-<img src="{{ site.url }}{{ site.baseurl }}/images/SDM24_Tutorial.png" class="img-responsive" width="75%" />
+<img src="https://github.com/YuWVandy/YuWVandy.github.io/blob/master/images/tree.png" class="img-responsive" width="75%" />
 <br>
 <br>
 
 ## Slides
 You can download our slides or see them embedded below.
 Download <a href="https://yuwvandy.github.io/_pages/tutorial_ppt.pdf"> link</a>
-
-<embed src="{{ site.url }}{{ site.baseurl }}/_pages/SDM24_DataQualityAwareGraphMachineLearning_TutorialSlides.pdf" width="700px" height="500px" />
 
 ## Speakers Bio's
 
