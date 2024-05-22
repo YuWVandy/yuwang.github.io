@@ -35,11 +35,11 @@ News
 <ul>
 <li>[05] Invited to serve as PC member at NeurIPS'24!</li>
 <li>[05] My collaborated paper with The Home Depot Knowledge Graph for Session Recommendation has been selected as the Spotlight Presentation at Industrial Track!</li>
-<li>[05] Invited to give a keynote talk at the Workshop of <a href='Large Language Models for Graph Learning'></a> at WWW'24!</li>
+<li>[05] Invited to give a keynote talk at the Workshop of <a href='https://advanced-recommender-systems.github.io/llm4graph/'>Large Language Models for Graph Learning</a> at WWW'24!</li>
 <li>[04] Our survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> has been accepted at TIST!</li>
 <li>[04] Slides of our SDM'24 <a href='https://yuwvandy.github.io/_pages/tutorial_ppt.pdf'>Tutorial</a> on Data Quality-Aware Graph Machine Learning is available!</li>
 <li>[04] Honored to receive the Best Doctoral Forum Poster Runner-ups at SDM'24!</li>
-<li>[04] Invited to give a keynote talk at the workshop of <a href='https://dssmh.github.io/'>Data Science for Smart Manufacturing and Healthcare!</a> at SDM'24</li>
+<li>[04] Invited to give a keynote talk at the workshop of <a href='https://dssmh.github.io/'>Data Science for Smart Manufacturing and Healthcare</a> at SDM'24</li>
 <li>[03] Our paper on KG for Session Recommendation has been selected as the Oral Presentation at WWW'24 Industrial Track!</li>
 <li>[02] Thrilled to receive 2023-2024 Vanderbilt Outstanding Doctoral Student Award!</li>
 <li>[02] Invited to give talks at the University of Oregon, Memphis and Arizona!</li>
