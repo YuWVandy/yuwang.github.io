@@ -33,7 +33,7 @@ News
 🐲-2024
 -----
 <ul>
-<li>[05] Serve as PC member at AAAI ICWSM 2024 and NeurIPS 2024!</li>
+<li>[05] Serve as PC member at AAAI ICWSM 2024 and reviewer at NeurIPS 2024 Research/Dataset Benchmark Track!</li>
 <li>[05] New preprints <a href='https://arxiv.org/abs/2405.17602'>Augmenting Textual Generation via Topology Aware Retrieval</a> is available online!</li>
 <li>[05] My collaborated paper with The Home Depot Knowledge Graph for Session Recommendation has been selected as the Spotlight Presentation at Industrial Track!</li>
 <li>[05] Invited to give a keynote talk at the Workshop of <a href='https://advanced-recommender-systems.github.io/llm4graph/'>Large Language Models for Graph Learning</a> at WWW'24!</li>
