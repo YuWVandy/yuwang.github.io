@@ -20,10 +20,10 @@ Yu Wang is a final-year Ph.D. candidate in [Computer Science](https://engineerin
 
 Research Interests:
 ------
-- Graph Machine Learning, Graph Neural Networks
-- Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Limited Data
+- Graph and Geometric Machine Learning and Deep Learning
+- Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Limited/Bias/Noisy Data Issues
 - Trustworthy AI: Bias/Fairness/Hallucination/Robustness
-- AI for Science/Infrastructure/Information Retrieval/Cybersecurity
+- AI for Social Good: Science/Infrastructure/Information Retrieval/Cybersecurity
 
 Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
@@ -33,8 +33,11 @@ News
 🐲-2024
 -----
 <ul>
+<li>[06] Our Demo <a href='https://lggm-lg.github.io/'>LGGM Text-to-Graph Generation is online and go play with it</a>!</li>
+<li>[06] Our paper <a href='https://arxiv.org/abs/2406.05109#:~:text=Large%20Generative%20Models%20(LGMs)%20such,extremely%20diverse%20from%20numerous%20domains.'>Large Graph Generative Model</a>!</li>
+<li>[06] Serve as PC member at AAAI 2025 and WSDM 2025!</li>
 <li>[05] Serve as PC member at AAAI ICWSM 2024 and reviewer at NeurIPS 2024 Research/Dataset Benchmark Track!</li>
-<li>[05] New preprints <a href='https://arxiv.org/abs/2405.17602'>Augmenting Textual Generation via Topology Aware Retrieval</a> is available online!</li>
+<li>[05] New preprint <a href='https://arxiv.org/abs/2405.17602'>Augmenting Textual Generation via Topology Aware Retrieval</a> is available online!</li>
 <li>[05] My collaborated paper with The Home Depot Knowledge Graph for Session Recommendation has been selected as the Spotlight Presentation at Industrial Track!</li>
 <li>[05] Invited to give a keynote talk at the Workshop of <a href='https://advanced-recommender-systems.github.io/llm4graph/'>Large Language Models for Graph Learning</a> at WWW'24!</li>
 <li>[04] Our survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> has been accepted at TIST!</li>
