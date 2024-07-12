@@ -33,6 +33,7 @@ News
 🐲-2024
 -----
 <ul>
+<li>[07] Our tutorial 📚 Data-quality-aware Graph Machine Learning has been accepted at CIKM'24, see you in Boise!</li>
 <li>[06] Our paper <a href='https://arxiv.org/abs/2406.05109#:~:text=Large%20Generative%20Models%20(LGMs)%20such,extremely%20diverse%20from%20numerous%20domains.'>Large Graph Generative Model</a> with <a href='https://lggm-lg.github.io/'>Text2Graph Demo</a> are online now. Feel free to play with it!</li>
 <li>[06] Serve as PC member at AAAI 2025 and WSDM 2025!</li>
 <li>[05] Serve as reviewer at NeurIPS 2024 Research/Dataset Benchmark Track and AAAI ICWSM 2024!</li>
