@@ -17,7 +17,6 @@ Yu directs the Data Mining and Network Science (DNS) lab, which conducts researc
 
 <span style="color:red">**See this for the comprehensive information in [English](https://yuwvandy.github.io/recruiting/)**
 
-<span style="color:red">**See this for the comprehensive information in [Chinese](https://mp.weixin.qq.com/s/ulv71WoDC0Oi7WbXzmdl1Q)**
 
 Research Interests:
 ------
