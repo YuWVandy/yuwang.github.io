@@ -4,7 +4,7 @@ title: "Publication"
 permalink: /publication/
 author_profile: true
 ---
-Most up-to-date publications are [here](https://yuwvandy.github.io/_pages/2023_CV_Yu_Wang.pdf#nameddest=PUBLICATIONS)
+Most up-to-date publications are [here](https://yuwvandy.github.io/_pages/CV.pdf#nameddest=PUBLICATIONS)
 
 **Tutorials**
 - **Yu Wang**, Yijun Tian, Tong Zhao, Xiaorui Liu, Jian Kang, Tyler Derr
