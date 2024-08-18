@@ -10,9 +10,6 @@ redirect_from:
 
 Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. Before that, he received his Ph.D. in the Computer Science Department at Vanderbilt University under the supervision of Dr. Tyler Derr. 
 
-[He completed his B.E. degree at Harbin Institute of Technology in 2019. which conducts research in the areas of data mining and machine learning, with emphasis on network analysis, machine learning on graphs, and responsible AI for social good with applications in cyber-security, biochemistry, and education. He received numerous honors and awards including the sole recipient of Vanderbilt’s Graduate Leadership Anchor Award for Research in 2023, the 2023-2024 Recipient of the Vanderbilt Outstanding Doctoral Student Award, the Best Paper Award in 2020 Smokey Mountain Data Challenge Competition by ORNL, first-author of Vanderbilt’s C.F.Chen Best Paper Award in 2022, first-author of the Best Paper Award at GLFrontiers Workshop at Neurips’23, Best Doctoral Forum Poster Runner-ups at SDM’24, along with two of his works being selected among the top-10 Most Influential CIKM’22 and WWW’23 Papers by Paper Digest. He actively contributed to top conferences/journals in the field of data mining and machine learning, both in terms of publishing such as ICLR, AAAI, KDD, WWW, CIKM, WSDM, TKDD, TIST, and serving as a PC member/reviewer/organizer such as KDD, ICML, AAAI, WWW, WSDM, CIKM, TKDD, and TNNLS. He has contributed to the organization of workshops in WSDM’22/24 and the tutorial in SDM’24. For more details.]: #
-
-
 📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to drop me an email with your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
 <span style="color:red">**See this for the comprehensive information in [English](https://yuwvandy.github.io/recruiting/)**
@@ -20,12 +17,13 @@ Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at
 
 Research Interests:
 ------
-- Graph and Geometric Machine Learning and Deep Learning
-- Data-centric AI and Graph Data-quality Issues: Topology/Imbalance/Limited/Bias/Noisy Data Issues
+- Data Mining and Machine Learning
+- Graph and Geometric Machine Learning
+- Data-centric AI and Graph Data-quality Issues
 - Trustworthy AI: Bias/Fairness/Hallucination/Robustness
-- AI for Social Good: Science/Infrastructure/Information Retrieval/Cybersecurity
+- AI/ML Applications: Information Retrieval/Science/Infrastructure/Cyber-security
 
-Email: yu.wang.1 At vanderbilt.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
+Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
 
 News
 ======
