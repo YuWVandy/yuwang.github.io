@@ -10,7 +10,7 @@ redirect_from:
 
 Yu Wang is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. Before that, he received his Ph.D. in the Computer Science Department at Vanderbilt University under the supervision of Dr. Tyler Derr. 
 
-📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to drop me an email with your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
+📢📢📢 <span style="color:red">**Recruiting Ph.D. students and interns!**</span> I am actively seeking highly motivated students for Ph.D. or Research intern positions. Please feel free to email me your CV, transcripts, and brief descriptions about why you want to work with me if you are interested!
 
 <span style="color:red">**See this for the comprehensive information in [English](https://yuwvandy.github.io/recruiting/)**
 
@@ -19,8 +19,8 @@ Research Interests:
 ------
 - Data Mining and Machine Learning
 - Graph and Geometric Machine Learning
-- Data-centric AI and Graph Data-quality Issues
-- Trustworthy AI: Bias/Fairness/Hallucination/Robustness
+- Data-centric AI and Trustworthy Graph Machine Learning
+- GenAI + Graph
 - AI/ML Applications: Information Retrieval/Science/Infrastructure/Cyber-security
 
 Email: yuwang@uoregon.edu. Find me on [Github](https://github.com/YuWVandy), [Twitter](https://twitter.com/YuWVandy), [Linkedin](https://www.linkedin.com/in/yu-wang-63359a196/), and [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en)
