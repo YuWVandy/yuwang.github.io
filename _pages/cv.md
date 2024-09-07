@@ -16,7 +16,7 @@ Education
 * B.S. in Harbin Institute of Technology
   * Sept. 2015 - June 2019
 
-You can find my most up-to-date CV <a href='https://YuWVandy.github.io/_pages/CV.pdf' target="_blank">here</a>.
+You can find my most up-to-date CV <a href='https://yuwanguo.github.io/_pages/CV.pdf' target="_blank">here</a>.
 
 
 Experience
