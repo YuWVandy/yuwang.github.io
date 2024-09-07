@@ -4,7 +4,7 @@ title: "Recruting"
 permalink: /recruiting/
 author_profile: true
 ---
-I am recruiting PhD students to work with me on topics in my general interests (see [Research page](https://yuwvandy.github.io/research/) for more details). Masters and undergraduate students are also welcome. Please answer questions in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfIKw4H0M4nCAOmgT8-D1uq7oFatmV6dqiWqUKMMQm2VpI_mQ/viewform).
+I am recruiting PhD students to work with me on topics in my general interests (see [Research page](https://yuwanguo.github.io/research/) for more details). Masters and undergraduate students are also welcome. Please answer questions in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfIKw4H0M4nCAOmgT8-D1uq7oFatmV6dqiWqUKMMQm2VpI_mQ/viewform).
 
 <br>**Please see below for more comprehensive information**
 
