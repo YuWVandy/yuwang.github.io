@@ -33,6 +33,7 @@ News
 🐲-2024
 -----
 <ul>
+<li>[08] Our paper 📚 <a href='https://arxiv.org/abs/2308.16375'>A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is accepted at IEEE TKDE!</li>
 <li>[07] Our paper 📚 Topo-RAG has been accepted at CIKM'24, see you in Boise!</li>
 <li>[07] Our tutorial 📚 Data-quality-aware Graph Machine Learning has been accepted at CIKM'24, see you in Boise!</li>
 <li>[06] Our paper <a href='https://arxiv.org/abs/2406.05109#:~:text=Large%20Generative%20Models%20(LGMs)%20such,extremely%20diverse%20from%20numerous%20domains.'>Large Graph Generative Model</a> with <a href='https://lggm-lg.github.io/'>Text2Graph Demo</a> are online now. Feel free to play with it!</li>
