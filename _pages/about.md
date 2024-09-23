@@ -33,6 +33,7 @@ News
 🐲-2024
 -----
 <ul>
+<li>[09] Invited to give a talk at the University of North Taxes!</li>
 <li>[08] Our paper 📚 <a href='https://arxiv.org/abs/2308.16375'>A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is accepted at IEEE TKDE!</li>
 <li>[07] Our paper 📚 Topo-RAG has been accepted at CIKM'24, see you in Boise!</li>
 <li>[07] Our tutorial 📚 Data-quality-aware Graph Machine Learning has been accepted at CIKM'24, see you in Boise!</li>
