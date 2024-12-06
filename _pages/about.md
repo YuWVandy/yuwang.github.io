@@ -44,6 +44,7 @@ News
 <li>[05] New preprint <a href='https://arxiv.org/abs/2405.17602'>Augmenting Textual Generation via Topology Aware Retrieval</a> is available online!</li>
 <li>[05] My collaborated paper with The Home Depot Knowledge Graph for Session Recommendation has been selected as the Spotlight Presentation at Industrial Track!</li>
 <li>[05] Invited to give a keynote talk at the Workshop of <a href='https://advanced-recommender-systems.github.io/llm4graph/'>Large Language Models for Graph Learning</a> at WWW'24!</li>
+<li>[05] I defended my Ph.D. dissertation! Thanks for the support from my advisor, Tyler Derr, and committee members Profs. Nitesh Chawla, Xenofon Koutsoukos, Mark Ellingham, Soheil Kolouri, Ryan Rossi!
 <li>[04] Our survey <a href='https://arxiv.org/abs/2307.04644'>Recommendation diversity/fairness</a> has been accepted at TIST!</li>
 <li>[04] Slides of our SDM'24 <a href='https://yuwvandy.github.io/_pages/tutorial_ppt.pdf'>Tutorial</a> on Data Quality-Aware Graph Machine Learning is available!</li>
 <li>[04] Honored to receive the Best Doctoral Forum Poster Runner-ups at SDM'24!</li>
